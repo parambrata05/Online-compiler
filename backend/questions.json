@@ -1,0 +1,7072 @@
+[
+  {
+    "id": 1,
+    "title": "Easy Problem 1 - Arrays Task",
+    "description": "This is a synthetic easy-level problem (ID 1). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "arrays"
+    ],
+    "testcases": [
+      {
+        "input": "7\n3 14 9 4 2 13 18\n",
+        "output": "63\n"
+      },
+      {
+        "input": "8\n11 2 6 5 11 18 11 8\n",
+        "output": "72\n"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Easy Problem 2 - Math Task",
+    "description": "This is a synthetic easy-level problem (ID 2). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "3\n14 3 20\n",
+        "output": "37\n"
+      },
+      {
+        "input": "9\n3 1 11 15 4 2 3 5 5\n",
+        "output": "49\n"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Easy Problem 3 - Bitwise Task",
+    "description": "This is a synthetic easy-level problem (ID 3). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "bitwise"
+    ],
+    "testcases": [
+      {
+        "input": "3\n10 14 19\n",
+        "output": "43\n"
+      },
+      {
+        "input": "10\n9 16 2 10 11 17 16 7 20 17\n",
+        "output": "125\n"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Easy Problem 4 - Recursion Task",
+    "description": "This is a synthetic easy-level problem (ID 4). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "recursion"
+    ],
+    "testcases": [
+      {
+        "input": "8\n1 13 17 14 18 20 16 17\n",
+        "output": "116\n"
+      },
+      {
+        "input": "9\n12 17 2 6 3 16 9 6 11\n",
+        "output": "82\n"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Easy Problem 5 - Trees Task",
+    "description": "This is a synthetic easy-level problem (ID 5). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "9\n3 15 13 19 11 1 7 19 3\n",
+        "output": "91\n"
+      },
+      {
+        "input": "8\n1 12 8 13 18 17 2 10\n",
+        "output": "81\n"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Easy Problem 6 - Sorting Task",
+    "description": "This is a synthetic easy-level problem (ID 6). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "6\n18 16 6 5 18 15\n",
+        "output": "78\n"
+      },
+      {
+        "input": "9\n15 2 1 5 15 7 1 9 12\n",
+        "output": "67\n"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Easy Problem 7 - Geometry Task",
+    "description": "This is a synthetic easy-level problem (ID 7). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "7\n14 14 1 4 20 3 17\n",
+        "output": "73\n"
+      },
+      {
+        "input": "8\n3 3 14 1 18 13 3 18\n",
+        "output": "73\n"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Easy Problem 8 - Hashing Task",
+    "description": "This is a synthetic easy-level problem (ID 8). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "9\n1 11 9 16 2 18 11 14 12\n",
+        "output": "94\n"
+      },
+      {
+        "input": "3\n6 14 3\n",
+        "output": "23\n"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Easy Problem 9 - Hashing Task",
+    "description": "This is a synthetic easy-level problem (ID 9). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "5\n12 8 3 2 17\n",
+        "output": "42\n"
+      },
+      {
+        "input": "9\n18 10 5 10 13 12 5 18 11\n",
+        "output": "102\n"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Easy Problem 10 - Search Task",
+    "description": "This is a synthetic easy-level problem (ID 10). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "search"
+    ],
+    "testcases": [
+      {
+        "input": "4\n6 19 13 14\n",
+        "output": "52\n"
+      },
+      {
+        "input": "3\n5 15 1\n",
+        "output": "21\n"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Easy Problem 11 - Trees Task",
+    "description": "This is a synthetic easy-level problem (ID 11). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "10\n15 10 14 1 6 17 11 17 17 18\n",
+        "output": "126\n"
+      },
+      {
+        "input": "5\n11 17 4 18 12\n",
+        "output": "62\n"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Easy Problem 12 - Dp Task",
+    "description": "This is a synthetic easy-level problem (ID 12). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "8\n3 9 17 8 7 11 9 13\n",
+        "output": "77\n"
+      },
+      {
+        "input": "3\n17 3 7\n",
+        "output": "27\n"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Easy Problem 13 - Search Task",
+    "description": "This is a synthetic easy-level problem (ID 13). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "search"
+    ],
+    "testcases": [
+      {
+        "input": "6\n1 7 9 19 8 3\n",
+        "output": "47\n"
+      },
+      {
+        "input": "8\n3 11 18 18 5 18 5 16\n",
+        "output": "94\n"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Easy Problem 14 - Sorting Task",
+    "description": "This is a synthetic easy-level problem (ID 14). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "9\n1 9 19 16 11 13 8 17 5\n",
+        "output": "99\n"
+      },
+      {
+        "input": "3\n20 20 16\n",
+        "output": "56\n"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Easy Problem 15 - Trees Task",
+    "description": "This is a synthetic easy-level problem (ID 15). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "4\n2 12 15 12\n",
+        "output": "41\n"
+      },
+      {
+        "input": "9\n11 12 7 15 11 7 6 13 2\n",
+        "output": "84\n"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Easy Problem 16 - Brute-force Task",
+    "description": "This is a synthetic easy-level problem (ID 16). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "brute-force"
+    ],
+    "testcases": [
+      {
+        "input": "9\n13 17 9 6 18 13 12 3 10\n",
+        "output": "101\n"
+      },
+      {
+        "input": "4\n9 17 20 11\n",
+        "output": "57\n"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Easy Problem 17 - Arrays Task",
+    "description": "This is a synthetic easy-level problem (ID 17). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "arrays"
+    ],
+    "testcases": [
+      {
+        "input": "9\n2 19 13 10 4 15 19 11 8\n",
+        "output": "101\n"
+      },
+      {
+        "input": "10\n9 15 19 19 12 8 15 17 19 9\n",
+        "output": "142\n"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Easy Problem 18 - Trees Task",
+    "description": "This is a synthetic easy-level problem (ID 18). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "3\n6 4 1\n",
+        "output": "11\n"
+      },
+      {
+        "input": "9\n16 5 16 18 2 16 18 5 11\n",
+        "output": "107\n"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Easy Problem 19 - Brute-force Task",
+    "description": "This is a synthetic easy-level problem (ID 19). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "brute-force"
+    ],
+    "testcases": [
+      {
+        "input": "8\n8 20 2 15 17 20 10 19\n",
+        "output": "111\n"
+      },
+      {
+        "input": "3\n11 13 8\n",
+        "output": "32\n"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Easy Problem 20 - Hashing Task",
+    "description": "This is a synthetic easy-level problem (ID 20). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "4\n9 10 6 14\n",
+        "output": "39\n"
+      },
+      {
+        "input": "8\n14 2 20 1 16 6 7 2\n",
+        "output": "68\n"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Easy Problem 21 - Graphs Task",
+    "description": "This is a synthetic easy-level problem (ID 21). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "graphs"
+    ],
+    "testcases": [
+      {
+        "input": "5\n17 7 10 16 15\n",
+        "output": "65\n"
+      },
+      {
+        "input": "6\n10 17 3 4 15 20\n",
+        "output": "69\n"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Easy Problem 22 - Search Task",
+    "description": "This is a synthetic easy-level problem (ID 22). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "search"
+    ],
+    "testcases": [
+      {
+        "input": "7\n7 17 3 13 14 15 4\n",
+        "output": "73\n"
+      },
+      {
+        "input": "3\n19 14 14\n",
+        "output": "47\n"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Easy Problem 23 - Search Task",
+    "description": "This is a synthetic easy-level problem (ID 23). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "search"
+    ],
+    "testcases": [
+      {
+        "input": "8\n5 16 5 7 7 8 2 8\n",
+        "output": "58\n"
+      },
+      {
+        "input": "6\n3 13 1 1 14 11\n",
+        "output": "43\n"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Easy Problem 24 - Search Task",
+    "description": "This is a synthetic easy-level problem (ID 24). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "search"
+    ],
+    "testcases": [
+      {
+        "input": "3\n2 8 14\n",
+        "output": "24\n"
+      },
+      {
+        "input": "7\n6 10 4 10 11 7 17\n",
+        "output": "65\n"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Easy Problem 25 - Arrays Task",
+    "description": "This is a synthetic easy-level problem (ID 25). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "arrays"
+    ],
+    "testcases": [
+      {
+        "input": "8\n5 15 8 14 8 17 14 13\n",
+        "output": "94\n"
+      },
+      {
+        "input": "6\n13 3 16 2 10 5\n",
+        "output": "49\n"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Easy Problem 26 - Sorting Task",
+    "description": "This is a synthetic easy-level problem (ID 26). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "4\n5 4 15 12\n",
+        "output": "36\n"
+      },
+      {
+        "input": "3\n15 17 12\n",
+        "output": "44\n"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Easy Problem 27 - Graphs Task",
+    "description": "This is a synthetic easy-level problem (ID 27). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "graphs"
+    ],
+    "testcases": [
+      {
+        "input": "8\n7 13 2 4 17 4 19 11\n",
+        "output": "77\n"
+      },
+      {
+        "input": "4\n7 13 6 14\n",
+        "output": "40\n"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Easy Problem 28 - Math Task",
+    "description": "This is a synthetic easy-level problem (ID 28). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "10\n5 1 6 3 11 2 4 5 8 15\n",
+        "output": "60\n"
+      },
+      {
+        "input": "9\n7 13 2 2 5 4 15 3 5\n",
+        "output": "56\n"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Easy Problem 29 - Geometry Task",
+    "description": "This is a synthetic easy-level problem (ID 29). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "3\n12 15 7\n",
+        "output": "34\n"
+      },
+      {
+        "input": "6\n8 14 11 5 3 1\n",
+        "output": "42\n"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Easy Problem 30 - Graphs Task",
+    "description": "This is a synthetic easy-level problem (ID 30). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "graphs"
+    ],
+    "testcases": [
+      {
+        "input": "8\n13 12 8 2 2 18 3 4\n",
+        "output": "62\n"
+      },
+      {
+        "input": "6\n10 8 5 18 1 20\n",
+        "output": "62\n"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Easy Problem 31 - Two-pointers Task",
+    "description": "This is a synthetic easy-level problem (ID 31). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "two-pointers"
+    ],
+    "testcases": [
+      {
+        "input": "7\n14 18 12 12 5 14 2\n",
+        "output": "77\n"
+      },
+      {
+        "input": "7\n12 11 1 12 17 1 10\n",
+        "output": "64\n"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Easy Problem 32 - Strings Task",
+    "description": "This is a synthetic easy-level problem (ID 32). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "strings"
+    ],
+    "testcases": [
+      {
+        "input": "9\n6 20 11 15 4 20 18 7 13\n",
+        "output": "114\n"
+      },
+      {
+        "input": "4\n7 7 12 14\n",
+        "output": "40\n"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Easy Problem 33 - Bitwise Task",
+    "description": "This is a synthetic easy-level problem (ID 33). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "bitwise"
+    ],
+    "testcases": [
+      {
+        "input": "10\n10 18 18 6 13 1 9 1 6 7\n",
+        "output": "89\n"
+      },
+      {
+        "input": "8\n6 4 5 20 4 9 4 3\n",
+        "output": "55\n"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Easy Problem 34 - Trees Task",
+    "description": "This is a synthetic easy-level problem (ID 34). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "3\n9 12 5\n",
+        "output": "26\n"
+      },
+      {
+        "input": "7\n14 3 20 9 17 18 4\n",
+        "output": "85\n"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Easy Problem 35 - Geometry Task",
+    "description": "This is a synthetic easy-level problem (ID 35). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "4\n11 10 10 15\n",
+        "output": "46\n"
+      },
+      {
+        "input": "6\n1 3 4 20 4 15\n",
+        "output": "47\n"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Easy Problem 36 - Brute-force Task",
+    "description": "This is a synthetic easy-level problem (ID 36). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "brute-force"
+    ],
+    "testcases": [
+      {
+        "input": "9\n12 6 5 13 1 14 7 8 1\n",
+        "output": "67\n"
+      },
+      {
+        "input": "9\n5 3 6 18 9 14 6 13 10\n",
+        "output": "84\n"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Easy Problem 37 - Strings Task",
+    "description": "This is a synthetic easy-level problem (ID 37). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "strings"
+    ],
+    "testcases": [
+      {
+        "input": "3\n4 19 13\n",
+        "output": "36\n"
+      },
+      {
+        "input": "7\n19 2 18 7 10 10 20\n",
+        "output": "86\n"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Easy Problem 38 - Search Task",
+    "description": "This is a synthetic easy-level problem (ID 38). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "search"
+    ],
+    "testcases": [
+      {
+        "input": "8\n1 5 10 10 7 14 7 16\n",
+        "output": "70\n"
+      },
+      {
+        "input": "3\n14 3 5\n",
+        "output": "22\n"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Easy Problem 39 - Math Task",
+    "description": "This is a synthetic easy-level problem (ID 39). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "3\n18 8 3\n",
+        "output": "29\n"
+      },
+      {
+        "input": "10\n19 7 13 19 14 18 12 3 7 3\n",
+        "output": "115\n"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Easy Problem 40 - Sorting Task",
+    "description": "This is a synthetic easy-level problem (ID 40). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "3\n18 10 1\n",
+        "output": "29\n"
+      },
+      {
+        "input": "6\n2 5 17 4 2 14\n",
+        "output": "44\n"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Easy Problem 41 - Bitwise Task",
+    "description": "This is a synthetic easy-level problem (ID 41). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "bitwise"
+    ],
+    "testcases": [
+      {
+        "input": "10\n20 13 11 6 13 14 4 3 2 7\n",
+        "output": "93\n"
+      },
+      {
+        "input": "5\n5 19 10 12 17\n",
+        "output": "63\n"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Easy Problem 42 - Greedy Task",
+    "description": "This is a synthetic easy-level problem (ID 42). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "7\n10 14 6 18 17 18 3\n",
+        "output": "86\n"
+      },
+      {
+        "input": "3\n19 20 5\n",
+        "output": "44\n"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Easy Problem 43 - Search Task",
+    "description": "This is a synthetic easy-level problem (ID 43). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "search"
+    ],
+    "testcases": [
+      {
+        "input": "4\n15 8 18 16\n",
+        "output": "57\n"
+      },
+      {
+        "input": "3\n12 10 15\n",
+        "output": "37\n"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Easy Problem 44 - Trees Task",
+    "description": "This is a synthetic easy-level problem (ID 44). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "7\n18 19 19 11 7 6 2\n",
+        "output": "82\n"
+      },
+      {
+        "input": "8\n2 19 4 16 12 14 6 4\n",
+        "output": "77\n"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Easy Problem 45 - Geometry Task",
+    "description": "This is a synthetic easy-level problem (ID 45). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "4\n8 19 13 5\n",
+        "output": "45\n"
+      },
+      {
+        "input": "4\n16 17 8 17\n",
+        "output": "58\n"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Easy Problem 46 - Sorting Task",
+    "description": "This is a synthetic easy-level problem (ID 46). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "8\n11 20 14 9 11 16 6 8\n",
+        "output": "95\n"
+      },
+      {
+        "input": "4\n2 17 5 12\n",
+        "output": "36\n"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Easy Problem 47 - Two-pointers Task",
+    "description": "This is a synthetic easy-level problem (ID 47). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "two-pointers"
+    ],
+    "testcases": [
+      {
+        "input": "3\n5 5 6\n",
+        "output": "16\n"
+      },
+      {
+        "input": "9\n6 18 8 17 6 16 17 1 16\n",
+        "output": "105\n"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Easy Problem 48 - Math Task",
+    "description": "This is a synthetic easy-level problem (ID 48). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "7\n12 17 15 8 3 14 16\n",
+        "output": "85\n"
+      },
+      {
+        "input": "9\n11 2 14 14 3 11 15 15 1\n",
+        "output": "86\n"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Easy Problem 49 - Strings Task",
+    "description": "This is a synthetic easy-level problem (ID 49). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "strings"
+    ],
+    "testcases": [
+      {
+        "input": "3\n12 12 11\n",
+        "output": "35\n"
+      },
+      {
+        "input": "6\n18 18 16 19 11 8\n",
+        "output": "90\n"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Easy Problem 50 - Arrays Task",
+    "description": "This is a synthetic easy-level problem (ID 50). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "arrays"
+    ],
+    "testcases": [
+      {
+        "input": "5\n5 15 7 16 14\n",
+        "output": "57\n"
+      },
+      {
+        "input": "3\n12 5 9\n",
+        "output": "26\n"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Easy Problem 51 - Two-pointers Task",
+    "description": "This is a synthetic easy-level problem (ID 51). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "two-pointers"
+    ],
+    "testcases": [
+      {
+        "input": "8\n18 10 3 12 7 2 4 18\n",
+        "output": "74\n"
+      },
+      {
+        "input": "5\n17 1 20 16 17\n",
+        "output": "71\n"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Easy Problem 52 - Greedy Task",
+    "description": "This is a synthetic easy-level problem (ID 52). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "9\n16 3 7 6 12 8 11 14 16\n",
+        "output": "93\n"
+      },
+      {
+        "input": "4\n13 3 12 17\n",
+        "output": "45\n"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Easy Problem 53 - Greedy Task",
+    "description": "This is a synthetic easy-level problem (ID 53). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "4\n7 9 3 4\n",
+        "output": "23\n"
+      },
+      {
+        "input": "8\n6 7 3 3 14 15 14 15\n",
+        "output": "77\n"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Easy Problem 54 - Hashing Task",
+    "description": "This is a synthetic easy-level problem (ID 54). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "3\n14 2 4\n",
+        "output": "20\n"
+      },
+      {
+        "input": "7\n17 13 13 11 12 12 3\n",
+        "output": "81\n"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Easy Problem 55 - Trees Task",
+    "description": "This is a synthetic easy-level problem (ID 55). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "5\n4 1 15 13 17\n",
+        "output": "50\n"
+      },
+      {
+        "input": "8\n2 7 10 11 10 5 11 20\n",
+        "output": "76\n"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Easy Problem 56 - Sorting Task",
+    "description": "This is a synthetic easy-level problem (ID 56). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "8\n8 18 2 20 16 5 7 11\n",
+        "output": "87\n"
+      },
+      {
+        "input": "6\n16 18 8 10 6 7\n",
+        "output": "65\n"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Easy Problem 57 - Sorting Task",
+    "description": "This is a synthetic easy-level problem (ID 57). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "10\n11 16 15 15 9 14 10 3 13 15\n",
+        "output": "121\n"
+      },
+      {
+        "input": "4\n20 11 13 19\n",
+        "output": "63\n"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Easy Problem 58 - Recursion Task",
+    "description": "This is a synthetic easy-level problem (ID 58). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "recursion"
+    ],
+    "testcases": [
+      {
+        "input": "5\n8 2 6 14 17\n",
+        "output": "47\n"
+      },
+      {
+        "input": "10\n20 9 20 8 10 6 17 8 14 3\n",
+        "output": "115\n"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Easy Problem 59 - Recursion Task",
+    "description": "This is a synthetic easy-level problem (ID 59). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "recursion"
+    ],
+    "testcases": [
+      {
+        "input": "9\n18 3 12 15 5 6 12 19 5\n",
+        "output": "95\n"
+      },
+      {
+        "input": "5\n10 14 5 6 15\n",
+        "output": "50\n"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Easy Problem 60 - Graphs Task",
+    "description": "This is a synthetic easy-level problem (ID 60). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "graphs"
+    ],
+    "testcases": [
+      {
+        "input": "6\n20 7 10 7 19 20\n",
+        "output": "83\n"
+      },
+      {
+        "input": "3\n10 7 20\n",
+        "output": "37\n"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Easy Problem 61 - Sorting Task",
+    "description": "This is a synthetic easy-level problem (ID 61). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "3\n6 6 11\n",
+        "output": "23\n"
+      },
+      {
+        "input": "5\n11 2 4 8 2\n",
+        "output": "27\n"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Easy Problem 62 - Trees Task",
+    "description": "This is a synthetic easy-level problem (ID 62). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "6\n3 6 15 14 6 4\n",
+        "output": "48\n"
+      },
+      {
+        "input": "3\n20 8 4\n",
+        "output": "32\n"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Easy Problem 63 - Greedy Task",
+    "description": "This is a synthetic easy-level problem (ID 63). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "5\n8 10 6 15 5\n",
+        "output": "44\n"
+      },
+      {
+        "input": "8\n13 1 20 16 10 14 14 20\n",
+        "output": "108\n"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Easy Problem 64 - Math Task",
+    "description": "This is a synthetic easy-level problem (ID 64). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "5\n7 8 10 15 17\n",
+        "output": "57\n"
+      },
+      {
+        "input": "5\n19 7 6 17 6\n",
+        "output": "55\n"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Easy Problem 65 - Dp Task",
+    "description": "This is a synthetic easy-level problem (ID 65). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "10\n4 4 10 6 1 16 13 8 18 8\n",
+        "output": "88\n"
+      },
+      {
+        "input": "9\n3 9 9 18 10 9 8 5 20\n",
+        "output": "91\n"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Easy Problem 66 - Dp Task",
+    "description": "This is a synthetic easy-level problem (ID 66). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "6\n1 3 14 17 10 16\n",
+        "output": "61\n"
+      },
+      {
+        "input": "4\n6 15 11 17\n",
+        "output": "49\n"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Easy Problem 67 - Strings Task",
+    "description": "This is a synthetic easy-level problem (ID 67). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "strings"
+    ],
+    "testcases": [
+      {
+        "input": "9\n18 10 4 15 1 5 9 11 5\n",
+        "output": "78\n"
+      },
+      {
+        "input": "10\n15 10 4 16 16 12 12 4 8 12\n",
+        "output": "109\n"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Easy Problem 68 - Two-pointers Task",
+    "description": "This is a synthetic easy-level problem (ID 68). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "two-pointers"
+    ],
+    "testcases": [
+      {
+        "input": "7\n9 19 17 3 4 1 12\n",
+        "output": "65\n"
+      },
+      {
+        "input": "8\n15 15 13 5 6 8 6 11\n",
+        "output": "79\n"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Easy Problem 69 - Dp Task",
+    "description": "This is a synthetic easy-level problem (ID 69). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "10\n5 18 8 14 12 13 6 9 19 12\n",
+        "output": "116\n"
+      },
+      {
+        "input": "9\n18 14 1 8 16 8 20 8 5\n",
+        "output": "98\n"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Easy Problem 70 - Recursion Task",
+    "description": "This is a synthetic easy-level problem (ID 70). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Easy",
+    "tags": [
+      "recursion"
+    ],
+    "testcases": [
+      {
+        "input": "8\n15 20 11 1 15 11 15 2\n",
+        "output": "90\n"
+      },
+      {
+        "input": "6\n1 9 5 9 6 16\n",
+        "output": "46\n"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Medium Problem 71 - Math Task",
+    "description": "This is a synthetic medium-level problem (ID 71). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "5\n8 17 5 6 9\n",
+        "output": "45\n"
+      },
+      {
+        "input": "9\n18 16 2 13 19 14 9 11 5\n",
+        "output": "107\n"
+      },
+      {
+        "input": "4\n8 15 10 3\n",
+        "output": "36\n"
+      },
+      {
+        "input": "8\n6 14 9 15 18 16 20 2\n",
+        "output": "100\n"
+      },
+      {
+        "input": "3\n8 5 15\n",
+        "output": "28\n"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Medium Problem 72 - Bitwise Task",
+    "description": "This is a synthetic medium-level problem (ID 72). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "bitwise"
+    ],
+    "testcases": [
+      {
+        "input": "9\n8 4 17 16 2 20 20 12 5\n",
+        "output": "104\n"
+      },
+      {
+        "input": "6\n8 1 3 3 17 18\n",
+        "output": "50\n"
+      },
+      {
+        "input": "10\n18 16 10 7 11 13 7 17 20 7\n",
+        "output": "126\n"
+      },
+      {
+        "input": "6\n2 17 7 10 9 16\n",
+        "output": "61\n"
+      },
+      {
+        "input": "7\n5 18 13 11 5 8 5\n",
+        "output": "65\n"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Medium Problem 73 - Strings Task",
+    "description": "This is a synthetic medium-level problem (ID 73). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "strings"
+    ],
+    "testcases": [
+      {
+        "input": "8\n8 12 4 20 15 2 1 12\n",
+        "output": "74\n"
+      },
+      {
+        "input": "3\n20 13 11\n",
+        "output": "44\n"
+      },
+      {
+        "input": "4\n6 7 10 14\n",
+        "output": "37\n"
+      },
+      {
+        "input": "6\n15 19 10 7 19 11\n",
+        "output": "81\n"
+      },
+      {
+        "input": "7\n16 19 9 16 12 17 19\n",
+        "output": "108\n"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Medium Problem 74 - Trees Task",
+    "description": "This is a synthetic medium-level problem (ID 74). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "5\n15 16 17 3 5\n",
+        "output": "56\n"
+      },
+      {
+        "input": "5\n14 2 12 13 16\n",
+        "output": "57\n"
+      },
+      {
+        "input": "6\n7 11 1 7 8 6\n",
+        "output": "40\n"
+      },
+      {
+        "input": "5\n9 8 14 5 19\n",
+        "output": "55\n"
+      },
+      {
+        "input": "9\n13 7 1 3 19 20 8 6 8\n",
+        "output": "85\n"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Medium Problem 75 - Arrays Task",
+    "description": "This is a synthetic medium-level problem (ID 75). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "arrays"
+    ],
+    "testcases": [
+      {
+        "input": "10\n11 11 7 13 13 18 3 18 10 13\n",
+        "output": "117\n"
+      },
+      {
+        "input": "5\n19 14 6 11 8\n",
+        "output": "58\n"
+      },
+      {
+        "input": "8\n18 19 19 2 6 14 11 15\n",
+        "output": "104\n"
+      },
+      {
+        "input": "4\n1 16 1 20\n",
+        "output": "38\n"
+      },
+      {
+        "input": "3\n13 3 6\n",
+        "output": "22\n"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Medium Problem 76 - Hashing Task",
+    "description": "This is a synthetic medium-level problem (ID 76). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "4\n5 11 7 9\n",
+        "output": "32\n"
+      },
+      {
+        "input": "6\n7 8 15 1 2 3\n",
+        "output": "36\n"
+      },
+      {
+        "input": "6\n16 11 18 5 6 16\n",
+        "output": "72\n"
+      },
+      {
+        "input": "10\n19 20 8 4 14 4 15 3 12 3\n",
+        "output": "102\n"
+      },
+      {
+        "input": "5\n15 19 18 8 18\n",
+        "output": "78\n"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Medium Problem 77 - Math Task",
+    "description": "This is a synthetic medium-level problem (ID 77). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "6\n8 8 6 3 9 20\n",
+        "output": "54\n"
+      },
+      {
+        "input": "7\n4 8 8 1 9 12 12\n",
+        "output": "54\n"
+      },
+      {
+        "input": "4\n8 17 10 1\n",
+        "output": "36\n"
+      },
+      {
+        "input": "4\n9 3 17 17\n",
+        "output": "46\n"
+      },
+      {
+        "input": "9\n8 12 11 15 20 7 18 14 16\n",
+        "output": "121\n"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Medium Problem 78 - Arrays Task",
+    "description": "This is a synthetic medium-level problem (ID 78). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "arrays"
+    ],
+    "testcases": [
+      {
+        "input": "4\n2 4 4 16\n",
+        "output": "26\n"
+      },
+      {
+        "input": "9\n7 17 17 1 18 7 12 5 5\n",
+        "output": "89\n"
+      },
+      {
+        "input": "5\n20 19 10 9 3\n",
+        "output": "61\n"
+      },
+      {
+        "input": "10\n1 3 9 17 3 9 14 15 11 4\n",
+        "output": "86\n"
+      },
+      {
+        "input": "5\n15 5 20 18 20\n",
+        "output": "78\n"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Medium Problem 79 - Recursion Task",
+    "description": "This is a synthetic medium-level problem (ID 79). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "recursion"
+    ],
+    "testcases": [
+      {
+        "input": "7\n18 18 11 16 19 10 6\n",
+        "output": "98\n"
+      },
+      {
+        "input": "6\n8 15 11 3 3 16\n",
+        "output": "56\n"
+      },
+      {
+        "input": "6\n15 13 8 13 10 11\n",
+        "output": "70\n"
+      },
+      {
+        "input": "7\n18 19 18 1 17 4 15\n",
+        "output": "92\n"
+      },
+      {
+        "input": "5\n5 16 14 5 15\n",
+        "output": "55\n"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Medium Problem 80 - Hashing Task",
+    "description": "This is a synthetic medium-level problem (ID 80). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "4\n9 5 8 3\n",
+        "output": "25\n"
+      },
+      {
+        "input": "4\n20 19 10 11\n",
+        "output": "60\n"
+      },
+      {
+        "input": "5\n11 14 10 3 8\n",
+        "output": "46\n"
+      },
+      {
+        "input": "3\n17 13 12\n",
+        "output": "42\n"
+      },
+      {
+        "input": "9\n2 9 8 10 15 18 7 15 3\n",
+        "output": "87\n"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Medium Problem 81 - Dp Task",
+    "description": "This is a synthetic medium-level problem (ID 81). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "6\n6 17 10 5 11 6\n",
+        "output": "55\n"
+      },
+      {
+        "input": "7\n3 13 12 8 14 15 6\n",
+        "output": "71\n"
+      },
+      {
+        "input": "3\n10 17 20\n",
+        "output": "47\n"
+      },
+      {
+        "input": "3\n8 15 14\n",
+        "output": "37\n"
+      },
+      {
+        "input": "5\n10 10 10 2 8\n",
+        "output": "40\n"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Medium Problem 82 - Two-pointers Task",
+    "description": "This is a synthetic medium-level problem (ID 82). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "two-pointers"
+    ],
+    "testcases": [
+      {
+        "input": "10\n8 1 2 12 10 5 14 19 3 7\n",
+        "output": "81\n"
+      },
+      {
+        "input": "10\n6 1 18 5 4 5 6 18 18 18\n",
+        "output": "99\n"
+      },
+      {
+        "input": "3\n2 3 8\n",
+        "output": "13\n"
+      },
+      {
+        "input": "10\n16 17 17 12 6 14 16 4 1 20\n",
+        "output": "123\n"
+      },
+      {
+        "input": "7\n7 13 20 11 17 19 1\n",
+        "output": "88\n"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Medium Problem 83 - Search Task",
+    "description": "This is a synthetic medium-level problem (ID 83). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "search"
+    ],
+    "testcases": [
+      {
+        "input": "5\n6 7 10 6 16\n",
+        "output": "45\n"
+      },
+      {
+        "input": "3\n13 5 11\n",
+        "output": "29\n"
+      },
+      {
+        "input": "10\n18 15 10 5 4 8 19 16 11 3\n",
+        "output": "109\n"
+      },
+      {
+        "input": "6\n12 1 7 10 16 14\n",
+        "output": "60\n"
+      },
+      {
+        "input": "3\n20 16 15\n",
+        "output": "51\n"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Medium Problem 84 - Dp Task",
+    "description": "This is a synthetic medium-level problem (ID 84). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "6\n13 4 19 18 20 13\n",
+        "output": "87\n"
+      },
+      {
+        "input": "8\n4 7 7 2 8 17 17 7\n",
+        "output": "69\n"
+      },
+      {
+        "input": "5\n9 14 10 6 19\n",
+        "output": "58\n"
+      },
+      {
+        "input": "4\n1 10 18 9\n",
+        "output": "38\n"
+      },
+      {
+        "input": "9\n3 1 11 13 14 19 12 19 10\n",
+        "output": "102\n"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Medium Problem 85 - Sorting Task",
+    "description": "This is a synthetic medium-level problem (ID 85). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "10\n13 5 6 3 14 3 12 7 2 1\n",
+        "output": "66\n"
+      },
+      {
+        "input": "9\n6 20 4 8 10 12 19 9 19\n",
+        "output": "107\n"
+      },
+      {
+        "input": "5\n10 18 6 17 16\n",
+        "output": "67\n"
+      },
+      {
+        "input": "3\n10 10 10\n",
+        "output": "30\n"
+      },
+      {
+        "input": "9\n1 3 18 2 12 3 9 3 18\n",
+        "output": "69\n"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Medium Problem 86 - Dp Task",
+    "description": "This is a synthetic medium-level problem (ID 86). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "3\n18 17 20\n",
+        "output": "55\n"
+      },
+      {
+        "input": "10\n17 2 5 10 9 11 18 14 9 20\n",
+        "output": "115\n"
+      },
+      {
+        "input": "5\n18 7 7 19 15\n",
+        "output": "66\n"
+      },
+      {
+        "input": "9\n8 1 6 9 14 20 16 2 11\n",
+        "output": "87\n"
+      },
+      {
+        "input": "7\n17 2 7 16 5 12 12\n",
+        "output": "71\n"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Medium Problem 87 - Trees Task",
+    "description": "This is a synthetic medium-level problem (ID 87). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "8\n18 12 20 2 4 19 6 11\n",
+        "output": "92\n"
+      },
+      {
+        "input": "7\n7 17 11 8 16 10 18\n",
+        "output": "87\n"
+      },
+      {
+        "input": "6\n11 16 20 12 14 12\n",
+        "output": "85\n"
+      },
+      {
+        "input": "10\n16 2 19 20 4 13 18 5 18 10\n",
+        "output": "125\n"
+      },
+      {
+        "input": "10\n3 9 10 4 4 6 16 12 5 12\n",
+        "output": "81\n"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Medium Problem 88 - Hashing Task",
+    "description": "This is a synthetic medium-level problem (ID 88). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "4\n7 12 3 14\n",
+        "output": "36\n"
+      },
+      {
+        "input": "4\n14 2 15 6\n",
+        "output": "37\n"
+      },
+      {
+        "input": "6\n2 7 17 6 6 2\n",
+        "output": "40\n"
+      },
+      {
+        "input": "3\n18 6 4\n",
+        "output": "28\n"
+      },
+      {
+        "input": "6\n11 2 18 8 16 13\n",
+        "output": "68\n"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Medium Problem 89 - Trees Task",
+    "description": "This is a synthetic medium-level problem (ID 89). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "5\n11 2 5 14 8\n",
+        "output": "40\n"
+      },
+      {
+        "input": "4\n9 20 3 18\n",
+        "output": "50\n"
+      },
+      {
+        "input": "4\n1 18 20 3\n",
+        "output": "42\n"
+      },
+      {
+        "input": "8\n5 15 17 14 15 2 2 8\n",
+        "output": "78\n"
+      },
+      {
+        "input": "4\n6 1 13 7\n",
+        "output": "27\n"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Medium Problem 90 - Dp Task",
+    "description": "This is a synthetic medium-level problem (ID 90). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "4\n10 20 2 13\n",
+        "output": "45\n"
+      },
+      {
+        "input": "10\n18 15 16 10 3 5 14 16 8 4\n",
+        "output": "109\n"
+      },
+      {
+        "input": "9\n12 17 7 13 11 12 5 12 4\n",
+        "output": "93\n"
+      },
+      {
+        "input": "3\n13 3 15\n",
+        "output": "31\n"
+      },
+      {
+        "input": "7\n18 12 11 16 19 3 18\n",
+        "output": "97\n"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Medium Problem 91 - Trees Task",
+    "description": "This is a synthetic medium-level problem (ID 91). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "3\n6 14 14\n",
+        "output": "34\n"
+      },
+      {
+        "input": "9\n15 17 10 10 12 17 16 8 19\n",
+        "output": "124\n"
+      },
+      {
+        "input": "10\n11 13 3 9 11 8 7 3 7 18\n",
+        "output": "90\n"
+      },
+      {
+        "input": "8\n19 14 2 16 6 15 11 2\n",
+        "output": "85\n"
+      },
+      {
+        "input": "3\n15 2 10\n",
+        "output": "27\n"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Medium Problem 92 - Strings Task",
+    "description": "This is a synthetic medium-level problem (ID 92). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "strings"
+    ],
+    "testcases": [
+      {
+        "input": "9\n17 5 11 6 9 5 4 5 19\n",
+        "output": "81\n"
+      },
+      {
+        "input": "4\n12 11 17 7\n",
+        "output": "47\n"
+      },
+      {
+        "input": "9\n16 10 7 18 3 10 9 5 13\n",
+        "output": "91\n"
+      },
+      {
+        "input": "7\n19 2 4 4 8 20 15\n",
+        "output": "72\n"
+      },
+      {
+        "input": "3\n8 5 13\n",
+        "output": "26\n"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Medium Problem 93 - Geometry Task",
+    "description": "This is a synthetic medium-level problem (ID 93). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "4\n11 14 4 10\n",
+        "output": "39\n"
+      },
+      {
+        "input": "3\n1 18 7\n",
+        "output": "26\n"
+      },
+      {
+        "input": "5\n11 18 9 12 12\n",
+        "output": "62\n"
+      },
+      {
+        "input": "8\n14 20 15 9 17 3 1 14\n",
+        "output": "93\n"
+      },
+      {
+        "input": "7\n2 7 9 14 6 11 11\n",
+        "output": "60\n"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Medium Problem 94 - Greedy Task",
+    "description": "This is a synthetic medium-level problem (ID 94). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "5\n5 6 20 11 10\n",
+        "output": "52\n"
+      },
+      {
+        "input": "6\n14 15 17 9 18 18\n",
+        "output": "91\n"
+      },
+      {
+        "input": "8\n9 12 17 8 2 12 1 6\n",
+        "output": "67\n"
+      },
+      {
+        "input": "10\n2 5 1 3 5 7 8 15 6 4\n",
+        "output": "56\n"
+      },
+      {
+        "input": "6\n18 17 2 1 20 17\n",
+        "output": "75\n"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Medium Problem 95 - Bitwise Task",
+    "description": "This is a synthetic medium-level problem (ID 95). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "bitwise"
+    ],
+    "testcases": [
+      {
+        "input": "5\n6 4 13 19 8\n",
+        "output": "50\n"
+      },
+      {
+        "input": "6\n16 6 2 3 16 12\n",
+        "output": "55\n"
+      },
+      {
+        "input": "6\n3 19 13 14 12 11\n",
+        "output": "72\n"
+      },
+      {
+        "input": "3\n2 1 17\n",
+        "output": "20\n"
+      },
+      {
+        "input": "7\n19 18 16 9 2 16 20\n",
+        "output": "100\n"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Medium Problem 96 - Bitwise Task",
+    "description": "This is a synthetic medium-level problem (ID 96). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "bitwise"
+    ],
+    "testcases": [
+      {
+        "input": "8\n13 1 11 12 8 15 9 18\n",
+        "output": "87\n"
+      },
+      {
+        "input": "8\n5 1 14 1 6 15 1 16\n",
+        "output": "59\n"
+      },
+      {
+        "input": "10\n17 6 14 13 19 12 20 16 18 12\n",
+        "output": "147\n"
+      },
+      {
+        "input": "8\n12 20 10 17 11 18 11 17\n",
+        "output": "116\n"
+      },
+      {
+        "input": "7\n13 7 19 6 20 20 1\n",
+        "output": "86\n"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Medium Problem 97 - Hashing Task",
+    "description": "This is a synthetic medium-level problem (ID 97). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "5\n11 4 20 16 9\n",
+        "output": "60\n"
+      },
+      {
+        "input": "4\n10 11 19 4\n",
+        "output": "44\n"
+      },
+      {
+        "input": "7\n20 6 18 9 12 1 16\n",
+        "output": "82\n"
+      },
+      {
+        "input": "7\n3 18 12 5 14 2 2\n",
+        "output": "56\n"
+      },
+      {
+        "input": "9\n3 17 20 9 6 5 19 7 9\n",
+        "output": "95\n"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Medium Problem 98 - Sorting Task",
+    "description": "This is a synthetic medium-level problem (ID 98). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "4\n12 1 1 16\n",
+        "output": "30\n"
+      },
+      {
+        "input": "8\n16 4 19 15 20 7 11 8\n",
+        "output": "100\n"
+      },
+      {
+        "input": "8\n3 10 20 14 14 8 9 6\n",
+        "output": "84\n"
+      },
+      {
+        "input": "4\n12 17 9 9\n",
+        "output": "47\n"
+      },
+      {
+        "input": "7\n8 11 3 5 16 4 10\n",
+        "output": "57\n"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Medium Problem 99 - Math Task",
+    "description": "This is a synthetic medium-level problem (ID 99). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "3\n19 13 3\n",
+        "output": "35\n"
+      },
+      {
+        "input": "10\n4 8 16 13 3 3 7 19 10 12\n",
+        "output": "95\n"
+      },
+      {
+        "input": "9\n3 18 7 13 15 16 19 16 8\n",
+        "output": "115\n"
+      },
+      {
+        "input": "9\n12 14 16 3 13 16 10 8 5\n",
+        "output": "97\n"
+      },
+      {
+        "input": "10\n17 15 17 16 10 1 15 17 20 17\n",
+        "output": "145\n"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Medium Problem 100 - Graphs Task",
+    "description": "This is a synthetic medium-level problem (ID 100). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "graphs"
+    ],
+    "testcases": [
+      {
+        "input": "10\n19 4 11 13 3 19 9 2 2 1\n",
+        "output": "83\n"
+      },
+      {
+        "input": "4\n10 8 7 18\n",
+        "output": "43\n"
+      },
+      {
+        "input": "4\n5 20 17 2\n",
+        "output": "44\n"
+      },
+      {
+        "input": "6\n15 3 15 11 4 4\n",
+        "output": "52\n"
+      },
+      {
+        "input": "8\n15 6 3 3 8 2 11 6\n",
+        "output": "54\n"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Medium Problem 101 - Hashing Task",
+    "description": "This is a synthetic medium-level problem (ID 101). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "3\n9 4 7\n",
+        "output": "20\n"
+      },
+      {
+        "input": "8\n3 10 16 3 4 7 20 11\n",
+        "output": "74\n"
+      },
+      {
+        "input": "9\n15 20 14 7 3 10 4 8 20\n",
+        "output": "101\n"
+      },
+      {
+        "input": "6\n10 3 5 2 14 13\n",
+        "output": "47\n"
+      },
+      {
+        "input": "9\n5 14 10 12 13 20 11 19 7\n",
+        "output": "111\n"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Medium Problem 102 - Bitwise Task",
+    "description": "This is a synthetic medium-level problem (ID 102). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "bitwise"
+    ],
+    "testcases": [
+      {
+        "input": "10\n6 15 9 13 11 11 2 13 12 19\n",
+        "output": "111\n"
+      },
+      {
+        "input": "7\n9 13 17 6 8 4 13\n",
+        "output": "70\n"
+      },
+      {
+        "input": "3\n5 18 8\n",
+        "output": "31\n"
+      },
+      {
+        "input": "5\n16 11 19 8 16\n",
+        "output": "70\n"
+      },
+      {
+        "input": "8\n9 16 9 8 15 11 16 19\n",
+        "output": "103\n"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Medium Problem 103 - Bitwise Task",
+    "description": "This is a synthetic medium-level problem (ID 103). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "bitwise"
+    ],
+    "testcases": [
+      {
+        "input": "4\n9 20 4 19\n",
+        "output": "52\n"
+      },
+      {
+        "input": "6\n17 20 8 2 19 6\n",
+        "output": "72\n"
+      },
+      {
+        "input": "6\n8 14 3 16 1 19\n",
+        "output": "61\n"
+      },
+      {
+        "input": "10\n11 5 9 18 2 11 12 8 11 1\n",
+        "output": "88\n"
+      },
+      {
+        "input": "9\n9 9 12 7 16 2 19 9 20\n",
+        "output": "103\n"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Medium Problem 104 - Hashing Task",
+    "description": "This is a synthetic medium-level problem (ID 104). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "5\n5 9 4 4 14\n",
+        "output": "36\n"
+      },
+      {
+        "input": "10\n17 18 11 6 8 19 8 16 20 1\n",
+        "output": "124\n"
+      },
+      {
+        "input": "3\n7 19 14\n",
+        "output": "40\n"
+      },
+      {
+        "input": "10\n12 1 5 15 3 10 5 18 18 11\n",
+        "output": "98\n"
+      },
+      {
+        "input": "9\n8 14 5 8 9 4 1 11 17\n",
+        "output": "77\n"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Medium Problem 105 - Strings Task",
+    "description": "This is a synthetic medium-level problem (ID 105). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "strings"
+    ],
+    "testcases": [
+      {
+        "input": "3\n16 9 20\n",
+        "output": "45\n"
+      },
+      {
+        "input": "3\n3 20 3\n",
+        "output": "26\n"
+      },
+      {
+        "input": "5\n13 6 13 9 20\n",
+        "output": "61\n"
+      },
+      {
+        "input": "5\n18 12 2 11 18\n",
+        "output": "61\n"
+      },
+      {
+        "input": "7\n1 5 12 1 14 8 10\n",
+        "output": "51\n"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Medium Problem 106 - Math Task",
+    "description": "This is a synthetic medium-level problem (ID 106). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "4\n13 12 7 19\n",
+        "output": "51\n"
+      },
+      {
+        "input": "5\n7 20 17 20 13\n",
+        "output": "77\n"
+      },
+      {
+        "input": "3\n19 11 2\n",
+        "output": "32\n"
+      },
+      {
+        "input": "9\n4 16 1 8 13 18 8 4 9\n",
+        "output": "81\n"
+      },
+      {
+        "input": "10\n9 6 19 9 11 9 6 20 9 8\n",
+        "output": "106\n"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Medium Problem 107 - Bitwise Task",
+    "description": "This is a synthetic medium-level problem (ID 107). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "bitwise"
+    ],
+    "testcases": [
+      {
+        "input": "3\n15 4 7\n",
+        "output": "26\n"
+      },
+      {
+        "input": "10\n4 1 10 17 11 14 7 6 18 2\n",
+        "output": "90\n"
+      },
+      {
+        "input": "5\n8 16 6 1 17\n",
+        "output": "48\n"
+      },
+      {
+        "input": "5\n7 8 5 19 11\n",
+        "output": "50\n"
+      },
+      {
+        "input": "6\n8 20 3 17 10 2\n",
+        "output": "60\n"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Medium Problem 108 - Arrays Task",
+    "description": "This is a synthetic medium-level problem (ID 108). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "arrays"
+    ],
+    "testcases": [
+      {
+        "input": "6\n16 4 20 10 1 5\n",
+        "output": "56\n"
+      },
+      {
+        "input": "7\n6 8 15 14 16 7 18\n",
+        "output": "84\n"
+      },
+      {
+        "input": "4\n1 16 12 19\n",
+        "output": "48\n"
+      },
+      {
+        "input": "9\n4 2 9 17 17 1 14 6 8\n",
+        "output": "78\n"
+      },
+      {
+        "input": "6\n19 5 4 17 5 14\n",
+        "output": "64\n"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Medium Problem 109 - Recursion Task",
+    "description": "This is a synthetic medium-level problem (ID 109). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "recursion"
+    ],
+    "testcases": [
+      {
+        "input": "7\n12 3 4 19 11 15 4\n",
+        "output": "68\n"
+      },
+      {
+        "input": "6\n10 11 6 5 19 4\n",
+        "output": "55\n"
+      },
+      {
+        "input": "7\n15 7 14 17 1 3 15\n",
+        "output": "72\n"
+      },
+      {
+        "input": "5\n5 18 13 16 3\n",
+        "output": "55\n"
+      },
+      {
+        "input": "10\n1 15 2 8 4 13 2 18 9 3\n",
+        "output": "75\n"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Medium Problem 110 - Dp Task",
+    "description": "This is a synthetic medium-level problem (ID 110). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "5\n5 19 16 5 19\n",
+        "output": "64\n"
+      },
+      {
+        "input": "9\n7 5 8 11 8 14 17 10 19\n",
+        "output": "99\n"
+      },
+      {
+        "input": "5\n1 6 4 7 7\n",
+        "output": "25\n"
+      },
+      {
+        "input": "5\n3 3 2 15 6\n",
+        "output": "29\n"
+      },
+      {
+        "input": "4\n14 7 20 16\n",
+        "output": "57\n"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Medium Problem 111 - Dp Task",
+    "description": "This is a synthetic medium-level problem (ID 111). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "9\n2 2 1 3 12 12 16 5 6\n",
+        "output": "59\n"
+      },
+      {
+        "input": "5\n13 2 18 11 7\n",
+        "output": "51\n"
+      },
+      {
+        "input": "5\n15 13 12 12 20\n",
+        "output": "72\n"
+      },
+      {
+        "input": "3\n4 17 17\n",
+        "output": "38\n"
+      },
+      {
+        "input": "6\n13 10 10 5 13 11\n",
+        "output": "62\n"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Medium Problem 112 - Brute-force Task",
+    "description": "This is a synthetic medium-level problem (ID 112). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "brute-force"
+    ],
+    "testcases": [
+      {
+        "input": "3\n7 10 10\n",
+        "output": "27\n"
+      },
+      {
+        "input": "7\n11 18 16 1 2 2 19\n",
+        "output": "69\n"
+      },
+      {
+        "input": "3\n4 13 17\n",
+        "output": "34\n"
+      },
+      {
+        "input": "8\n3 19 5 17 3 5 11 12\n",
+        "output": "75\n"
+      },
+      {
+        "input": "3\n10 7 16\n",
+        "output": "33\n"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Medium Problem 113 - Hashing Task",
+    "description": "This is a synthetic medium-level problem (ID 113). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "6\n19 10 15 1 15 16\n",
+        "output": "76\n"
+      },
+      {
+        "input": "10\n7 3 5 13 4 20 19 5 9 12\n",
+        "output": "97\n"
+      },
+      {
+        "input": "4\n17 14 9 14\n",
+        "output": "54\n"
+      },
+      {
+        "input": "4\n20 9 17 13\n",
+        "output": "59\n"
+      },
+      {
+        "input": "5\n5 16 14 17 3\n",
+        "output": "55\n"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Medium Problem 114 - Arrays Task",
+    "description": "This is a synthetic medium-level problem (ID 114). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "arrays"
+    ],
+    "testcases": [
+      {
+        "input": "7\n14 13 16 13 20 11 15\n",
+        "output": "102\n"
+      },
+      {
+        "input": "8\n13 6 17 8 7 1 2 2\n",
+        "output": "56\n"
+      },
+      {
+        "input": "8\n7 2 13 16 12 14 12 9\n",
+        "output": "85\n"
+      },
+      {
+        "input": "9\n17 18 10 1 20 8 5 20 6\n",
+        "output": "105\n"
+      },
+      {
+        "input": "5\n19 15 18 1 2\n",
+        "output": "55\n"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Medium Problem 115 - Math Task",
+    "description": "This is a synthetic medium-level problem (ID 115). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "7\n18 13 10 3 1 8 18\n",
+        "output": "71\n"
+      },
+      {
+        "input": "8\n15 4 18 20 14 14 9 17\n",
+        "output": "111\n"
+      },
+      {
+        "input": "4\n2 12 7 16\n",
+        "output": "37\n"
+      },
+      {
+        "input": "3\n17 12 1\n",
+        "output": "30\n"
+      },
+      {
+        "input": "7\n3 14 5 3 14 11 4\n",
+        "output": "54\n"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Medium Problem 116 - Math Task",
+    "description": "This is a synthetic medium-level problem (ID 116). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "10\n9 15 1 10 15 10 16 19 3 1\n",
+        "output": "99\n"
+      },
+      {
+        "input": "5\n4 1 8 12 3\n",
+        "output": "28\n"
+      },
+      {
+        "input": "7\n13 8 7 13 4 4 15\n",
+        "output": "64\n"
+      },
+      {
+        "input": "8\n4 14 7 15 7 6 17 6\n",
+        "output": "76\n"
+      },
+      {
+        "input": "5\n20 4 13 1 18\n",
+        "output": "56\n"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Medium Problem 117 - Hashing Task",
+    "description": "This is a synthetic medium-level problem (ID 117). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "6\n3 9 2 4 5 10\n",
+        "output": "33\n"
+      },
+      {
+        "input": "6\n8 10 18 10 18 10\n",
+        "output": "74\n"
+      },
+      {
+        "input": "3\n6 17 18\n",
+        "output": "41\n"
+      },
+      {
+        "input": "8\n8 20 7 9 14 2 15 18\n",
+        "output": "93\n"
+      },
+      {
+        "input": "7\n18 3 1 19 11 9 13\n",
+        "output": "74\n"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Medium Problem 118 - Hashing Task",
+    "description": "This is a synthetic medium-level problem (ID 118). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "3\n3 4 10\n",
+        "output": "17\n"
+      },
+      {
+        "input": "9\n3 6 13 6 20 1 1 2 16\n",
+        "output": "68\n"
+      },
+      {
+        "input": "4\n9 9 1 15\n",
+        "output": "34\n"
+      },
+      {
+        "input": "3\n16 15 13\n",
+        "output": "44\n"
+      },
+      {
+        "input": "9\n1 14 7 3 14 10 5 17 11\n",
+        "output": "82\n"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Medium Problem 119 - Trees Task",
+    "description": "This is a synthetic medium-level problem (ID 119). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "6\n11 11 10 5 13 11\n",
+        "output": "61\n"
+      },
+      {
+        "input": "5\n2 3 1 14 8\n",
+        "output": "28\n"
+      },
+      {
+        "input": "3\n18 4 13\n",
+        "output": "35\n"
+      },
+      {
+        "input": "3\n14 6 18\n",
+        "output": "38\n"
+      },
+      {
+        "input": "9\n2 16 4 8 1 4 13 1 8\n",
+        "output": "57\n"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Medium Problem 120 - Dp Task",
+    "description": "This is a synthetic medium-level problem (ID 120). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "7\n13 9 11 15 18 8 17\n",
+        "output": "91\n"
+      },
+      {
+        "input": "9\n14 14 13 15 20 20 20 15 1\n",
+        "output": "132\n"
+      },
+      {
+        "input": "5\n13 6 1 9 15\n",
+        "output": "44\n"
+      },
+      {
+        "input": "4\n19 9 9 19\n",
+        "output": "56\n"
+      },
+      {
+        "input": "3\n2 7 4\n",
+        "output": "13\n"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Medium Problem 121 - Geometry Task",
+    "description": "This is a synthetic medium-level problem (ID 121). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "6\n4 11 12 7 8 16\n",
+        "output": "58\n"
+      },
+      {
+        "input": "7\n3 16 8 14 19 4 16\n",
+        "output": "80\n"
+      },
+      {
+        "input": "5\n8 6 2 8 7\n",
+        "output": "31\n"
+      },
+      {
+        "input": "9\n20 14 20 19 15 3 7 20 19\n",
+        "output": "137\n"
+      },
+      {
+        "input": "9\n18 9 16 2 12 18 16 6 10\n",
+        "output": "107\n"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Medium Problem 122 - Sorting Task",
+    "description": "This is a synthetic medium-level problem (ID 122). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "8\n5 5 19 1 16 10 15 9\n",
+        "output": "80\n"
+      },
+      {
+        "input": "7\n15 15 2 2 8 18 3\n",
+        "output": "63\n"
+      },
+      {
+        "input": "6\n9 6 12 14 10 5\n",
+        "output": "56\n"
+      },
+      {
+        "input": "3\n11 10 17\n",
+        "output": "38\n"
+      },
+      {
+        "input": "8\n5 2 11 14 10 15 9 16\n",
+        "output": "82\n"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Medium Problem 123 - Two-pointers Task",
+    "description": "This is a synthetic medium-level problem (ID 123). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "two-pointers"
+    ],
+    "testcases": [
+      {
+        "input": "4\n6 9 5 5\n",
+        "output": "25\n"
+      },
+      {
+        "input": "4\n12 9 11 6\n",
+        "output": "38\n"
+      },
+      {
+        "input": "5\n2 13 14 11 3\n",
+        "output": "43\n"
+      },
+      {
+        "input": "6\n7 20 7 12 10 5\n",
+        "output": "61\n"
+      },
+      {
+        "input": "6\n3 17 4 5 6 13\n",
+        "output": "48\n"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Medium Problem 124 - Strings Task",
+    "description": "This is a synthetic medium-level problem (ID 124). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "strings"
+    ],
+    "testcases": [
+      {
+        "input": "10\n6 15 3 19 14 10 2 20 15 2\n",
+        "output": "106\n"
+      },
+      {
+        "input": "10\n7 10 9 9 19 18 7 16 10 3\n",
+        "output": "108\n"
+      },
+      {
+        "input": "5\n15 7 20 15 12\n",
+        "output": "69\n"
+      },
+      {
+        "input": "5\n11 13 9 12 6\n",
+        "output": "51\n"
+      },
+      {
+        "input": "7\n14 3 15 10 4 10 11\n",
+        "output": "67\n"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Medium Problem 125 - Strings Task",
+    "description": "This is a synthetic medium-level problem (ID 125). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "strings"
+    ],
+    "testcases": [
+      {
+        "input": "5\n10 2 10 14 8\n",
+        "output": "44\n"
+      },
+      {
+        "input": "8\n17 4 5 17 8 6 3 4\n",
+        "output": "64\n"
+      },
+      {
+        "input": "9\n20 7 14 6 4 2 14 6 20\n",
+        "output": "93\n"
+      },
+      {
+        "input": "5\n11 4 13 15 4\n",
+        "output": "47\n"
+      },
+      {
+        "input": "9\n3 14 10 20 15 10 9 16 7\n",
+        "output": "104\n"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Medium Problem 126 - Sorting Task",
+    "description": "This is a synthetic medium-level problem (ID 126). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "8\n1 18 2 18 18 4 10 1\n",
+        "output": "72\n"
+      },
+      {
+        "input": "3\n19 18 6\n",
+        "output": "43\n"
+      },
+      {
+        "input": "6\n10 19 20 18 12 20\n",
+        "output": "99\n"
+      },
+      {
+        "input": "10\n2 19 19 9 16 14 1 17 15 10\n",
+        "output": "122\n"
+      },
+      {
+        "input": "6\n19 15 3 18 1 15\n",
+        "output": "71\n"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Medium Problem 127 - Two-pointers Task",
+    "description": "This is a synthetic medium-level problem (ID 127). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "two-pointers"
+    ],
+    "testcases": [
+      {
+        "input": "10\n11 2 7 20 3 7 16 1 2 11\n",
+        "output": "80\n"
+      },
+      {
+        "input": "8\n12 15 18 9 8 20 9 7\n",
+        "output": "98\n"
+      },
+      {
+        "input": "9\n19 15 3 7 5 17 11 13 3\n",
+        "output": "93\n"
+      },
+      {
+        "input": "9\n19 11 9 8 6 10 13 17 6\n",
+        "output": "99\n"
+      },
+      {
+        "input": "10\n2 12 20 17 16 15 1 20 14 2\n",
+        "output": "119\n"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Medium Problem 128 - Arrays Task",
+    "description": "This is a synthetic medium-level problem (ID 128). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "arrays"
+    ],
+    "testcases": [
+      {
+        "input": "10\n14 3 8 1 10 4 7 14 2 2\n",
+        "output": "65\n"
+      },
+      {
+        "input": "4\n7 11 3 17\n",
+        "output": "38\n"
+      },
+      {
+        "input": "3\n16 19 10\n",
+        "output": "45\n"
+      },
+      {
+        "input": "6\n11 15 17 13 4 18\n",
+        "output": "78\n"
+      },
+      {
+        "input": "6\n12 19 19 17 1 1\n",
+        "output": "69\n"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Medium Problem 129 - Geometry Task",
+    "description": "This is a synthetic medium-level problem (ID 129). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "5\n15 7 6 18 6\n",
+        "output": "52\n"
+      },
+      {
+        "input": "4\n12 1 19 9\n",
+        "output": "41\n"
+      },
+      {
+        "input": "6\n1 5 10 1 16 9\n",
+        "output": "42\n"
+      },
+      {
+        "input": "3\n7 18 1\n",
+        "output": "26\n"
+      },
+      {
+        "input": "10\n11 3 4 14 1 16 18 9 3 4\n",
+        "output": "83\n"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Medium Problem 130 - Dp Task",
+    "description": "This is a synthetic medium-level problem (ID 130). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "4\n11 18 10 19\n",
+        "output": "58\n"
+      },
+      {
+        "input": "6\n18 8 7 7 10 4\n",
+        "output": "54\n"
+      },
+      {
+        "input": "4\n8 18 7 18\n",
+        "output": "51\n"
+      },
+      {
+        "input": "10\n14 19 4 2 20 17 7 18 1 6\n",
+        "output": "108\n"
+      },
+      {
+        "input": "10\n17 1 13 8 15 3 4 16 15 19\n",
+        "output": "111\n"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Medium Problem 131 - Search Task",
+    "description": "This is a synthetic medium-level problem (ID 131). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "search"
+    ],
+    "testcases": [
+      {
+        "input": "5\n5 13 12 12 1\n",
+        "output": "43\n"
+      },
+      {
+        "input": "7\n11 9 4 20 18 4 16\n",
+        "output": "82\n"
+      },
+      {
+        "input": "10\n4 16 20 18 1 3 11 9 12 16\n",
+        "output": "110\n"
+      },
+      {
+        "input": "9\n16 7 6 11 6 15 4 6 10\n",
+        "output": "81\n"
+      },
+      {
+        "input": "6\n6 8 20 15 7 14\n",
+        "output": "70\n"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Medium Problem 132 - Graphs Task",
+    "description": "This is a synthetic medium-level problem (ID 132). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "graphs"
+    ],
+    "testcases": [
+      {
+        "input": "4\n9 7 9 9\n",
+        "output": "34\n"
+      },
+      {
+        "input": "10\n18 6 2 19 15 6 10 17 11 9\n",
+        "output": "113\n"
+      },
+      {
+        "input": "9\n5 5 15 14 6 10 18 12 1\n",
+        "output": "86\n"
+      },
+      {
+        "input": "9\n16 19 19 3 18 9 2 10 6\n",
+        "output": "102\n"
+      },
+      {
+        "input": "10\n5 2 5 11 4 5 20 9 5 16\n",
+        "output": "82\n"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Medium Problem 133 - Two-pointers Task",
+    "description": "This is a synthetic medium-level problem (ID 133). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "two-pointers"
+    ],
+    "testcases": [
+      {
+        "input": "5\n4 12 20 18 15\n",
+        "output": "69\n"
+      },
+      {
+        "input": "10\n11 3 2 1 12 6 16 15 20 20\n",
+        "output": "106\n"
+      },
+      {
+        "input": "10\n1 4 13 8 16 11 14 17 19 1\n",
+        "output": "104\n"
+      },
+      {
+        "input": "9\n16 20 10 17 11 15 14 3 18\n",
+        "output": "124\n"
+      },
+      {
+        "input": "8\n10 20 20 15 6 17 5 4\n",
+        "output": "97\n"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Medium Problem 134 - Search Task",
+    "description": "This is a synthetic medium-level problem (ID 134). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "search"
+    ],
+    "testcases": [
+      {
+        "input": "7\n9 12 20 11 14 3 16\n",
+        "output": "85\n"
+      },
+      {
+        "input": "8\n1 16 6 10 15 13 4 20\n",
+        "output": "85\n"
+      },
+      {
+        "input": "10\n3 12 2 7 18 15 13 14 13 1\n",
+        "output": "98\n"
+      },
+      {
+        "input": "5\n4 5 6 20 13\n",
+        "output": "48\n"
+      },
+      {
+        "input": "10\n16 15 16 14 16 18 4 2 10 18\n",
+        "output": "129\n"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Medium Problem 135 - Brute-force Task",
+    "description": "This is a synthetic medium-level problem (ID 135). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "brute-force"
+    ],
+    "testcases": [
+      {
+        "input": "6\n8 7 11 15 13 9\n",
+        "output": "63\n"
+      },
+      {
+        "input": "7\n15 1 12 15 3 2 10\n",
+        "output": "58\n"
+      },
+      {
+        "input": "9\n17 13 14 2 8 19 11 2 13\n",
+        "output": "99\n"
+      },
+      {
+        "input": "8\n18 14 20 9 8 10 6 6\n",
+        "output": "91\n"
+      },
+      {
+        "input": "3\n5 10 3\n",
+        "output": "18\n"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Medium Problem 136 - Hashing Task",
+    "description": "This is a synthetic medium-level problem (ID 136). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "6\n5 1 13 9 20 5\n",
+        "output": "53\n"
+      },
+      {
+        "input": "7\n8 4 5 13 14 8 3\n",
+        "output": "55\n"
+      },
+      {
+        "input": "5\n9 17 19 9 19\n",
+        "output": "73\n"
+      },
+      {
+        "input": "4\n1 20 14 19\n",
+        "output": "54\n"
+      },
+      {
+        "input": "7\n14 3 2 5 3 4 8\n",
+        "output": "39\n"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Medium Problem 137 - Geometry Task",
+    "description": "This is a synthetic medium-level problem (ID 137). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "10\n10 19 8 5 9 3 5 6 2 6\n",
+        "output": "73\n"
+      },
+      {
+        "input": "8\n3 4 4 17 5 12 6 18\n",
+        "output": "69\n"
+      },
+      {
+        "input": "5\n12 1 18 13 11\n",
+        "output": "55\n"
+      },
+      {
+        "input": "9\n5 7 4 20 8 15 5 14 12\n",
+        "output": "90\n"
+      },
+      {
+        "input": "4\n15 15 4 7\n",
+        "output": "41\n"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Medium Problem 138 - Dp Task",
+    "description": "This is a synthetic medium-level problem (ID 138). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "5\n2 13 18 14 8\n",
+        "output": "55\n"
+      },
+      {
+        "input": "9\n13 8 13 15 13 14 8 5 7\n",
+        "output": "96\n"
+      },
+      {
+        "input": "6\n12 1 4 12 3 1\n",
+        "output": "33\n"
+      },
+      {
+        "input": "9\n12 6 8 15 14 18 7 18 17\n",
+        "output": "115\n"
+      },
+      {
+        "input": "4\n15 16 9 4\n",
+        "output": "44\n"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Medium Problem 139 - Arrays Task",
+    "description": "This is a synthetic medium-level problem (ID 139). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "arrays"
+    ],
+    "testcases": [
+      {
+        "input": "8\n9 9 19 8 5 20 1 10\n",
+        "output": "81\n"
+      },
+      {
+        "input": "8\n10 4 17 1 8 12 14 19\n",
+        "output": "85\n"
+      },
+      {
+        "input": "8\n11 3 17 18 15 14 11 18\n",
+        "output": "107\n"
+      },
+      {
+        "input": "3\n7 4 17\n",
+        "output": "28\n"
+      },
+      {
+        "input": "6\n5 4 3 3 10 13\n",
+        "output": "38\n"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Medium Problem 140 - Recursion Task",
+    "description": "This is a synthetic medium-level problem (ID 140). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Medium",
+    "tags": [
+      "recursion"
+    ],
+    "testcases": [
+      {
+        "input": "9\n1 10 9 12 19 4 7 13 7\n",
+        "output": "82\n"
+      },
+      {
+        "input": "5\n12 14 18 16 15\n",
+        "output": "75\n"
+      },
+      {
+        "input": "8\n17 16 13 15 12 13 14 10\n",
+        "output": "110\n"
+      },
+      {
+        "input": "8\n12 10 17 7 15 5 1 5\n",
+        "output": "72\n"
+      },
+      {
+        "input": "6\n16 8 18 12 9 5\n",
+        "output": "68\n"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Hard Problem 141 - Brute-force Task",
+    "description": "This is a synthetic hard-level problem (ID 141). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "brute-force"
+    ],
+    "testcases": [
+      {
+        "input": "9\n4 11 4 15 18 10 13 10 14\n",
+        "output": "99\n"
+      },
+      {
+        "input": "3\n10 20 16\n",
+        "output": "46\n"
+      },
+      {
+        "input": "6\n5 9 7 19 11 11\n",
+        "output": "62\n"
+      },
+      {
+        "input": "10\n12 11 5 19 4 3 7 2 19 4\n",
+        "output": "86\n"
+      },
+      {
+        "input": "6\n2 4 10 16 2 3\n",
+        "output": "37\n"
+      },
+      {
+        "input": "3\n8 12 5\n",
+        "output": "25\n"
+      },
+      {
+        "input": "10\n5 13 3 2 3 1 18 15 11 10\n",
+        "output": "81\n"
+      },
+      {
+        "input": "4\n11 10 11 11\n",
+        "output": "43\n"
+      },
+      {
+        "input": "10\n6 10 16 3 1 18 9 18 10 16\n",
+        "output": "107\n"
+      },
+      {
+        "input": "3\n6 1 9\n",
+        "output": "16\n"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Hard Problem 142 - Strings Task",
+    "description": "This is a synthetic hard-level problem (ID 142). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "strings"
+    ],
+    "testcases": [
+      {
+        "input": "9\n4 18 13 7 18 8 5 20 17\n",
+        "output": "110\n"
+      },
+      {
+        "input": "7\n15 4 6 19 20 14 2\n",
+        "output": "80\n"
+      },
+      {
+        "input": "9\n18 16 13 10 19 19 15 15 20\n",
+        "output": "145\n"
+      },
+      {
+        "input": "3\n17 19 10\n",
+        "output": "46\n"
+      },
+      {
+        "input": "5\n1 3 8 17 14\n",
+        "output": "43\n"
+      },
+      {
+        "input": "6\n9 14 8 2 6 8\n",
+        "output": "47\n"
+      },
+      {
+        "input": "10\n19 9 13 15 9 15 13 2 7 17\n",
+        "output": "119\n"
+      },
+      {
+        "input": "8\n9 19 19 20 13 6 7 10\n",
+        "output": "103\n"
+      },
+      {
+        "input": "6\n3 18 20 1 15 11\n",
+        "output": "68\n"
+      },
+      {
+        "input": "3\n6 20 2\n",
+        "output": "28\n"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Hard Problem 143 - Arrays Task",
+    "description": "This is a synthetic hard-level problem (ID 143). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "arrays"
+    ],
+    "testcases": [
+      {
+        "input": "5\n8 18 15 11 9\n",
+        "output": "61\n"
+      },
+      {
+        "input": "7\n13 6 11 2 6 4 5\n",
+        "output": "47\n"
+      },
+      {
+        "input": "10\n6 17 1 14 14 11 10 5 18 1\n",
+        "output": "97\n"
+      },
+      {
+        "input": "3\n2 12 6\n",
+        "output": "20\n"
+      },
+      {
+        "input": "8\n14 7 17 15 3 14 10 3\n",
+        "output": "83\n"
+      },
+      {
+        "input": "9\n6 17 12 6 2 13 17 13 3\n",
+        "output": "89\n"
+      },
+      {
+        "input": "4\n8 15 15 1\n",
+        "output": "39\n"
+      },
+      {
+        "input": "7\n7 20 11 12 11 18 15\n",
+        "output": "94\n"
+      },
+      {
+        "input": "5\n7 13 9 8 15\n",
+        "output": "52\n"
+      },
+      {
+        "input": "5\n12 1 19 10 7\n",
+        "output": "49\n"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Hard Problem 144 - Geometry Task",
+    "description": "This is a synthetic hard-level problem (ID 144). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "5\n9 17 10 4 12\n",
+        "output": "52\n"
+      },
+      {
+        "input": "8\n6 13 4 6 8 12 2 17\n",
+        "output": "68\n"
+      },
+      {
+        "input": "7\n3 10 4 9 4 13 11\n",
+        "output": "54\n"
+      },
+      {
+        "input": "6\n2 2 10 4 4 8\n",
+        "output": "30\n"
+      },
+      {
+        "input": "10\n17 16 7 16 9 15 9 1 6 3\n",
+        "output": "99\n"
+      },
+      {
+        "input": "5\n3 11 16 11 12\n",
+        "output": "53\n"
+      },
+      {
+        "input": "3\n2 14 8\n",
+        "output": "24\n"
+      },
+      {
+        "input": "7\n14 20 1 7 19 1 9\n",
+        "output": "71\n"
+      },
+      {
+        "input": "6\n5 4 6 1 13 9\n",
+        "output": "38\n"
+      },
+      {
+        "input": "8\n8 19 7 11 16 18 4 1\n",
+        "output": "84\n"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Hard Problem 145 - Greedy Task",
+    "description": "This is a synthetic hard-level problem (ID 145). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "3\n12 18 12\n",
+        "output": "42\n"
+      },
+      {
+        "input": "5\n8 10 7 12 18\n",
+        "output": "55\n"
+      },
+      {
+        "input": "5\n8 2 13 1 16\n",
+        "output": "40\n"
+      },
+      {
+        "input": "7\n18 16 4 16 13 19 8\n",
+        "output": "94\n"
+      },
+      {
+        "input": "6\n3 19 15 4 4 3\n",
+        "output": "48\n"
+      },
+      {
+        "input": "7\n11 11 9 20 2 16 3\n",
+        "output": "72\n"
+      },
+      {
+        "input": "5\n5 3 2 20 11\n",
+        "output": "41\n"
+      },
+      {
+        "input": "9\n15 11 3 19 14 12 12 9 5\n",
+        "output": "100\n"
+      },
+      {
+        "input": "3\n7 16 18\n",
+        "output": "41\n"
+      },
+      {
+        "input": "7\n9 9 13 8 14 3 2\n",
+        "output": "58\n"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Hard Problem 146 - Brute-force Task",
+    "description": "This is a synthetic hard-level problem (ID 146). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "brute-force"
+    ],
+    "testcases": [
+      {
+        "input": "8\n1 8 10 16 3 20 20 5\n",
+        "output": "83\n"
+      },
+      {
+        "input": "8\n6 4 1 5 18 1 3 10\n",
+        "output": "48\n"
+      },
+      {
+        "input": "3\n13 7 13\n",
+        "output": "33\n"
+      },
+      {
+        "input": "6\n6 4 9 17 2 6\n",
+        "output": "44\n"
+      },
+      {
+        "input": "7\n4 16 1 8 17 5 2\n",
+        "output": "53\n"
+      },
+      {
+        "input": "4\n20 3 13 10\n",
+        "output": "46\n"
+      },
+      {
+        "input": "7\n7 15 19 19 11 5 5\n",
+        "output": "81\n"
+      },
+      {
+        "input": "8\n11 6 17 8 8 5 15 5\n",
+        "output": "75\n"
+      },
+      {
+        "input": "8\n3 11 1 9 16 1 13 9\n",
+        "output": "63\n"
+      },
+      {
+        "input": "5\n7 3 13 12 7\n",
+        "output": "42\n"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Hard Problem 147 - Recursion Task",
+    "description": "This is a synthetic hard-level problem (ID 147). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "recursion"
+    ],
+    "testcases": [
+      {
+        "input": "8\n5 19 12 5 11 10 6 18\n",
+        "output": "86\n"
+      },
+      {
+        "input": "6\n10 13 12 16 10 5\n",
+        "output": "66\n"
+      },
+      {
+        "input": "10\n11 13 6 2 3 10 9 18 20 6\n",
+        "output": "98\n"
+      },
+      {
+        "input": "7\n18 15 1 7 16 5 2\n",
+        "output": "64\n"
+      },
+      {
+        "input": "10\n11 11 13 4 19 13 7 14 4 12\n",
+        "output": "108\n"
+      },
+      {
+        "input": "4\n5 17 8 4\n",
+        "output": "34\n"
+      },
+      {
+        "input": "3\n16 10 7\n",
+        "output": "33\n"
+      },
+      {
+        "input": "8\n10 12 11 11 12 15 5 13\n",
+        "output": "89\n"
+      },
+      {
+        "input": "10\n9 15 16 8 16 16 19 4 13 10\n",
+        "output": "126\n"
+      },
+      {
+        "input": "4\n19 2 2 2\n",
+        "output": "25\n"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Hard Problem 148 - Greedy Task",
+    "description": "This is a synthetic hard-level problem (ID 148). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "7\n12 20 16 8 15 18 6\n",
+        "output": "95\n"
+      },
+      {
+        "input": "10\n1 20 7 6 12 18 15 6 15 9\n",
+        "output": "109\n"
+      },
+      {
+        "input": "6\n15 13 15 14 5 7\n",
+        "output": "69\n"
+      },
+      {
+        "input": "7\n9 8 12 16 5 5 20\n",
+        "output": "75\n"
+      },
+      {
+        "input": "8\n12 17 15 19 8 13 10 18\n",
+        "output": "112\n"
+      },
+      {
+        "input": "7\n20 17 9 16 7 19 8\n",
+        "output": "96\n"
+      },
+      {
+        "input": "3\n10 18 2\n",
+        "output": "30\n"
+      },
+      {
+        "input": "7\n3 18 2 6 20 2 7\n",
+        "output": "58\n"
+      },
+      {
+        "input": "4\n6 19 10 13\n",
+        "output": "48\n"
+      },
+      {
+        "input": "3\n13 19 16\n",
+        "output": "48\n"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Hard Problem 149 - Geometry Task",
+    "description": "This is a synthetic hard-level problem (ID 149). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "4\n18 19 14 7\n",
+        "output": "58\n"
+      },
+      {
+        "input": "5\n15 15 14 8 16\n",
+        "output": "68\n"
+      },
+      {
+        "input": "8\n14 9 9 3 11 2 15 18\n",
+        "output": "81\n"
+      },
+      {
+        "input": "6\n2 11 16 3 6 2\n",
+        "output": "40\n"
+      },
+      {
+        "input": "5\n4 19 11 2 3\n",
+        "output": "39\n"
+      },
+      {
+        "input": "3\n15 9 14\n",
+        "output": "38\n"
+      },
+      {
+        "input": "9\n4 2 4 11 6 19 5 3 10\n",
+        "output": "64\n"
+      },
+      {
+        "input": "6\n18 20 9 15 16 12\n",
+        "output": "90\n"
+      },
+      {
+        "input": "5\n4 13 12 13 15\n",
+        "output": "57\n"
+      },
+      {
+        "input": "4\n5 6 4 7\n",
+        "output": "22\n"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Hard Problem 150 - Sorting Task",
+    "description": "This is a synthetic hard-level problem (ID 150). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "9\n9 2 10 13 18 16 12 9 9\n",
+        "output": "98\n"
+      },
+      {
+        "input": "9\n8 17 2 8 7 6 15 15 7\n",
+        "output": "85\n"
+      },
+      {
+        "input": "7\n15 10 17 17 7 5 8\n",
+        "output": "79\n"
+      },
+      {
+        "input": "8\n19 12 4 20 7 20 12 1\n",
+        "output": "95\n"
+      },
+      {
+        "input": "3\n9 20 5\n",
+        "output": "34\n"
+      },
+      {
+        "input": "3\n5 2 2\n",
+        "output": "9\n"
+      },
+      {
+        "input": "4\n16 15 14 11\n",
+        "output": "56\n"
+      },
+      {
+        "input": "10\n10 2 15 12 7 19 18 19 1 19\n",
+        "output": "122\n"
+      },
+      {
+        "input": "7\n7 19 15 11 9 5 17\n",
+        "output": "83\n"
+      },
+      {
+        "input": "4\n6 12 18 3\n",
+        "output": "39\n"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Hard Problem 151 - Bitwise Task",
+    "description": "This is a synthetic hard-level problem (ID 151). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "bitwise"
+    ],
+    "testcases": [
+      {
+        "input": "10\n1 15 15 1 6 13 4 12 6 10\n",
+        "output": "83\n"
+      },
+      {
+        "input": "10\n9 18 4 11 13 1 14 16 18 15\n",
+        "output": "119\n"
+      },
+      {
+        "input": "8\n5 14 19 10 3 15 7 18\n",
+        "output": "91\n"
+      },
+      {
+        "input": "7\n20 7 5 6 9 13 1\n",
+        "output": "61\n"
+      },
+      {
+        "input": "9\n11 19 3 2 19 7 18 11 8\n",
+        "output": "98\n"
+      },
+      {
+        "input": "9\n3 19 12 6 16 13 13 7 12\n",
+        "output": "101\n"
+      },
+      {
+        "input": "10\n10 12 19 16 5 4 5 3 4 5\n",
+        "output": "83\n"
+      },
+      {
+        "input": "6\n1 20 13 2 10 8\n",
+        "output": "54\n"
+      },
+      {
+        "input": "4\n17 4 6 3\n",
+        "output": "30\n"
+      },
+      {
+        "input": "4\n12 17 14 9\n",
+        "output": "52\n"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Hard Problem 152 - Graphs Task",
+    "description": "This is a synthetic hard-level problem (ID 152). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "graphs"
+    ],
+    "testcases": [
+      {
+        "input": "5\n11 11 20 4 11\n",
+        "output": "57\n"
+      },
+      {
+        "input": "3\n10 12 18\n",
+        "output": "40\n"
+      },
+      {
+        "input": "4\n6 7 16 19\n",
+        "output": "48\n"
+      },
+      {
+        "input": "10\n14 4 20 5 6 1 12 17 19 5\n",
+        "output": "103\n"
+      },
+      {
+        "input": "4\n17 2 5 7\n",
+        "output": "31\n"
+      },
+      {
+        "input": "7\n3 16 8 16 20 1 17\n",
+        "output": "81\n"
+      },
+      {
+        "input": "7\n1 10 15 13 4 6 12\n",
+        "output": "61\n"
+      },
+      {
+        "input": "10\n1 2 7 8 14 6 6 20 13 2\n",
+        "output": "79\n"
+      },
+      {
+        "input": "7\n16 19 5 1 2 9 20\n",
+        "output": "72\n"
+      },
+      {
+        "input": "3\n16 18 10\n",
+        "output": "44\n"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Hard Problem 153 - Sorting Task",
+    "description": "This is a synthetic hard-level problem (ID 153). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "8\n11 1 11 6 20 20 20 6\n",
+        "output": "95\n"
+      },
+      {
+        "input": "7\n20 6 15 5 10 10 3\n",
+        "output": "69\n"
+      },
+      {
+        "input": "6\n8 14 2 3 20 15\n",
+        "output": "62\n"
+      },
+      {
+        "input": "7\n16 5 8 7 11 18 15\n",
+        "output": "80\n"
+      },
+      {
+        "input": "5\n7 16 7 7 15\n",
+        "output": "52\n"
+      },
+      {
+        "input": "9\n8 3 12 4 19 6 20 20 19\n",
+        "output": "111\n"
+      },
+      {
+        "input": "3\n12 18 6\n",
+        "output": "36\n"
+      },
+      {
+        "input": "8\n12 15 8 6 19 9 1 10\n",
+        "output": "80\n"
+      },
+      {
+        "input": "4\n14 16 2 14\n",
+        "output": "46\n"
+      },
+      {
+        "input": "5\n13 20 4 6 13\n",
+        "output": "56\n"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Hard Problem 154 - Brute-force Task",
+    "description": "This is a synthetic hard-level problem (ID 154). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "brute-force"
+    ],
+    "testcases": [
+      {
+        "input": "6\n12 6 18 8 10 13\n",
+        "output": "67\n"
+      },
+      {
+        "input": "3\n7 17 3\n",
+        "output": "27\n"
+      },
+      {
+        "input": "10\n11 5 3 7 8 7 18 2 10 15\n",
+        "output": "86\n"
+      },
+      {
+        "input": "5\n12 1 13 11 14\n",
+        "output": "51\n"
+      },
+      {
+        "input": "9\n3 6 19 14 16 4 9 17 11\n",
+        "output": "99\n"
+      },
+      {
+        "input": "4\n15 16 19 16\n",
+        "output": "66\n"
+      },
+      {
+        "input": "10\n20 11 14 6 17 19 9 19 12 7\n",
+        "output": "134\n"
+      },
+      {
+        "input": "5\n13 14 4 13 20\n",
+        "output": "64\n"
+      },
+      {
+        "input": "6\n18 11 15 16 3 16\n",
+        "output": "79\n"
+      },
+      {
+        "input": "4\n7 6 1 10\n",
+        "output": "24\n"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Hard Problem 155 - Sorting Task",
+    "description": "This is a synthetic hard-level problem (ID 155). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "5\n13 19 7 20 20\n",
+        "output": "79\n"
+      },
+      {
+        "input": "6\n6 5 5 19 3 12\n",
+        "output": "50\n"
+      },
+      {
+        "input": "5\n18 15 16 5 4\n",
+        "output": "58\n"
+      },
+      {
+        "input": "8\n8 18 3 12 20 4 20 13\n",
+        "output": "98\n"
+      },
+      {
+        "input": "3\n13 18 18\n",
+        "output": "49\n"
+      },
+      {
+        "input": "9\n11 3 1 16 12 16 16 14 4\n",
+        "output": "93\n"
+      },
+      {
+        "input": "3\n6 9 1\n",
+        "output": "16\n"
+      },
+      {
+        "input": "3\n11 20 8\n",
+        "output": "39\n"
+      },
+      {
+        "input": "10\n17 18 19 13 16 1 9 2 10 13\n",
+        "output": "118\n"
+      },
+      {
+        "input": "7\n17 4 2 19 19 17 13\n",
+        "output": "91\n"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "title": "Hard Problem 156 - Graphs Task",
+    "description": "This is a synthetic hard-level problem (ID 156). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "graphs"
+    ],
+    "testcases": [
+      {
+        "input": "7\n16 12 16 20 10 14 2\n",
+        "output": "90\n"
+      },
+      {
+        "input": "10\n16 9 19 12 4 10 17 3 16 17\n",
+        "output": "123\n"
+      },
+      {
+        "input": "3\n20 7 8\n",
+        "output": "35\n"
+      },
+      {
+        "input": "6\n10 6 8 20 2 12\n",
+        "output": "58\n"
+      },
+      {
+        "input": "10\n14 20 9 17 17 10 3 16 5 6\n",
+        "output": "117\n"
+      },
+      {
+        "input": "3\n8 12 11\n",
+        "output": "31\n"
+      },
+      {
+        "input": "3\n17 17 19\n",
+        "output": "53\n"
+      },
+      {
+        "input": "4\n1 20 17 10\n",
+        "output": "48\n"
+      },
+      {
+        "input": "4\n2 1 17 20\n",
+        "output": "40\n"
+      },
+      {
+        "input": "6\n4 12 9 8 3 9\n",
+        "output": "45\n"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "title": "Hard Problem 157 - Trees Task",
+    "description": "This is a synthetic hard-level problem (ID 157). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "3\n12 10 6\n",
+        "output": "28\n"
+      },
+      {
+        "input": "5\n5 13 6 12 2\n",
+        "output": "38\n"
+      },
+      {
+        "input": "3\n1 19 14\n",
+        "output": "34\n"
+      },
+      {
+        "input": "4\n13 12 2 12\n",
+        "output": "39\n"
+      },
+      {
+        "input": "10\n5 1 10 2 18 14 13 16 7 11\n",
+        "output": "97\n"
+      },
+      {
+        "input": "10\n7 19 12 1 4 6 13 19 3 5\n",
+        "output": "89\n"
+      },
+      {
+        "input": "3\n2 8 8\n",
+        "output": "18\n"
+      },
+      {
+        "input": "5\n13 6 9 2 4\n",
+        "output": "34\n"
+      },
+      {
+        "input": "3\n9 18 9\n",
+        "output": "36\n"
+      },
+      {
+        "input": "4\n5 8 1 2\n",
+        "output": "16\n"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "title": "Hard Problem 158 - Geometry Task",
+    "description": "This is a synthetic hard-level problem (ID 158). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "3\n18 18 4\n",
+        "output": "40\n"
+      },
+      {
+        "input": "10\n11 18 17 10 1 1 5 3 16 19\n",
+        "output": "101\n"
+      },
+      {
+        "input": "7\n2 17 15 17 7 5 13\n",
+        "output": "76\n"
+      },
+      {
+        "input": "8\n17 9 10 19 5 17 12 19\n",
+        "output": "108\n"
+      },
+      {
+        "input": "5\n8 9 13 10 9\n",
+        "output": "49\n"
+      },
+      {
+        "input": "10\n4 17 18 18 17 18 17 5 19 13\n",
+        "output": "146\n"
+      },
+      {
+        "input": "9\n16 17 7 19 6 20 15 20 10\n",
+        "output": "130\n"
+      },
+      {
+        "input": "3\n16 12 20\n",
+        "output": "48\n"
+      },
+      {
+        "input": "7\n15 10 11 17 5 15 1\n",
+        "output": "74\n"
+      },
+      {
+        "input": "4\n19 4 20 7\n",
+        "output": "50\n"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "title": "Hard Problem 159 - Hashing Task",
+    "description": "This is a synthetic hard-level problem (ID 159). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "10\n5 10 1 2 12 4 5 17 6 14\n",
+        "output": "76\n"
+      },
+      {
+        "input": "7\n6 11 1 6 4 6 12\n",
+        "output": "46\n"
+      },
+      {
+        "input": "8\n19 4 16 20 8 16 16 3\n",
+        "output": "102\n"
+      },
+      {
+        "input": "7\n6 12 1 16 4 11 5\n",
+        "output": "55\n"
+      },
+      {
+        "input": "3\n9 12 16\n",
+        "output": "37\n"
+      },
+      {
+        "input": "5\n18 11 17 16 19\n",
+        "output": "81\n"
+      },
+      {
+        "input": "5\n8 10 7 9 8\n",
+        "output": "42\n"
+      },
+      {
+        "input": "4\n4 5 17 9\n",
+        "output": "35\n"
+      },
+      {
+        "input": "10\n4 19 10 3 10 3 15 16 11 9\n",
+        "output": "100\n"
+      },
+      {
+        "input": "6\n1 4 14 18 12 20\n",
+        "output": "69\n"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Hard Problem 160 - Hashing Task",
+    "description": "This is a synthetic hard-level problem (ID 160). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "5\n15 9 11 16 1\n",
+        "output": "52\n"
+      },
+      {
+        "input": "4\n2 17 4 9\n",
+        "output": "32\n"
+      },
+      {
+        "input": "4\n20 15 16 10\n",
+        "output": "61\n"
+      },
+      {
+        "input": "3\n7 1 8\n",
+        "output": "16\n"
+      },
+      {
+        "input": "9\n3 16 7 13 8 9 9 14 1\n",
+        "output": "80\n"
+      },
+      {
+        "input": "4\n11 3 3 13\n",
+        "output": "30\n"
+      },
+      {
+        "input": "10\n6 6 5 18 9 7 19 17 3 12\n",
+        "output": "102\n"
+      },
+      {
+        "input": "4\n6 6 5 6\n",
+        "output": "23\n"
+      },
+      {
+        "input": "8\n14 20 17 20 17 13 20 12\n",
+        "output": "133\n"
+      },
+      {
+        "input": "3\n20 19 7\n",
+        "output": "46\n"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "title": "Hard Problem 161 - Dp Task",
+    "description": "This is a synthetic hard-level problem (ID 161). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "3\n19 17 16\n",
+        "output": "52\n"
+      },
+      {
+        "input": "3\n14 18 2\n",
+        "output": "34\n"
+      },
+      {
+        "input": "9\n12 5 9 13 12 10 20 6 8\n",
+        "output": "95\n"
+      },
+      {
+        "input": "8\n15 5 8 6 6 1 20 8\n",
+        "output": "69\n"
+      },
+      {
+        "input": "6\n5 1 20 3 16 19\n",
+        "output": "64\n"
+      },
+      {
+        "input": "10\n1 3 8 9 7 2 18 5 2 5\n",
+        "output": "60\n"
+      },
+      {
+        "input": "5\n5 14 14 7 14\n",
+        "output": "54\n"
+      },
+      {
+        "input": "10\n4 4 2 7 19 7 13 5 20 1\n",
+        "output": "82\n"
+      },
+      {
+        "input": "10\n5 10 19 19 7 11 12 12 11 6\n",
+        "output": "112\n"
+      },
+      {
+        "input": "4\n14 14 2 19\n",
+        "output": "49\n"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Hard Problem 162 - Bitwise Task",
+    "description": "This is a synthetic hard-level problem (ID 162). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "bitwise"
+    ],
+    "testcases": [
+      {
+        "input": "5\n16 1 1 1 3\n",
+        "output": "22\n"
+      },
+      {
+        "input": "10\n4 3 11 13 13 20 11 8 5 10\n",
+        "output": "98\n"
+      },
+      {
+        "input": "5\n8 10 13 3 5\n",
+        "output": "39\n"
+      },
+      {
+        "input": "8\n4 17 9 9 3 11 1 19\n",
+        "output": "73\n"
+      },
+      {
+        "input": "8\n13 5 12 2 13 4 6 1\n",
+        "output": "56\n"
+      },
+      {
+        "input": "8\n16 1 3 16 11 18 2 8\n",
+        "output": "75\n"
+      },
+      {
+        "input": "6\n4 9 7 9 11 13\n",
+        "output": "53\n"
+      },
+      {
+        "input": "9\n20 16 17 12 16 6 16 19 4\n",
+        "output": "126\n"
+      },
+      {
+        "input": "8\n12 8 18 4 12 10 11 13\n",
+        "output": "88\n"
+      },
+      {
+        "input": "10\n17 11 1 11 15 17 16 1 5 1\n",
+        "output": "95\n"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Hard Problem 163 - Hashing Task",
+    "description": "This is a synthetic hard-level problem (ID 163). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "6\n14 8 20 17 7 3\n",
+        "output": "69\n"
+      },
+      {
+        "input": "9\n17 10 4 1 5 7 2 9 11\n",
+        "output": "66\n"
+      },
+      {
+        "input": "9\n14 10 18 1 16 9 13 14 13\n",
+        "output": "108\n"
+      },
+      {
+        "input": "6\n2 2 4 12 2 16\n",
+        "output": "38\n"
+      },
+      {
+        "input": "6\n9 9 18 8 15 1\n",
+        "output": "60\n"
+      },
+      {
+        "input": "8\n13 1 12 16 7 18 17 12\n",
+        "output": "96\n"
+      },
+      {
+        "input": "7\n15 7 20 10 11 17 19\n",
+        "output": "99\n"
+      },
+      {
+        "input": "7\n8 15 7 8 20 16 7\n",
+        "output": "81\n"
+      },
+      {
+        "input": "5\n3 10 14 8 1\n",
+        "output": "36\n"
+      },
+      {
+        "input": "3\n3 11 16\n",
+        "output": "30\n"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Hard Problem 164 - Recursion Task",
+    "description": "This is a synthetic hard-level problem (ID 164). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "recursion"
+    ],
+    "testcases": [
+      {
+        "input": "5\n5 17 19 11 12\n",
+        "output": "64\n"
+      },
+      {
+        "input": "4\n4 16 13 13\n",
+        "output": "46\n"
+      },
+      {
+        "input": "9\n3 16 19 2 14 11 6 3 8\n",
+        "output": "82\n"
+      },
+      {
+        "input": "10\n2 20 2 16 17 16 2 15 12 19\n",
+        "output": "121\n"
+      },
+      {
+        "input": "8\n1 15 8 17 5 14 3 4\n",
+        "output": "67\n"
+      },
+      {
+        "input": "6\n5 9 11 2 8 5\n",
+        "output": "40\n"
+      },
+      {
+        "input": "4\n11 2 18 7\n",
+        "output": "38\n"
+      },
+      {
+        "input": "10\n20 17 2 5 16 9 16 10 16 10\n",
+        "output": "121\n"
+      },
+      {
+        "input": "9\n16 9 20 19 1 8 10 5 20\n",
+        "output": "108\n"
+      },
+      {
+        "input": "4\n18 18 8 8\n",
+        "output": "52\n"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Hard Problem 165 - Dp Task",
+    "description": "This is a synthetic hard-level problem (ID 165). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "9\n2 4 8 16 13 14 17 14 9\n",
+        "output": "97\n"
+      },
+      {
+        "input": "4\n7 20 3 18\n",
+        "output": "48\n"
+      },
+      {
+        "input": "3\n18 13 13\n",
+        "output": "44\n"
+      },
+      {
+        "input": "4\n9 6 17 18\n",
+        "output": "50\n"
+      },
+      {
+        "input": "8\n5 5 12 18 20 19 6 20\n",
+        "output": "105\n"
+      },
+      {
+        "input": "7\n10 15 8 13 9 17 8\n",
+        "output": "80\n"
+      },
+      {
+        "input": "7\n6 16 12 19 19 3 16\n",
+        "output": "91\n"
+      },
+      {
+        "input": "5\n2 14 4 2 10\n",
+        "output": "32\n"
+      },
+      {
+        "input": "3\n5 7 11\n",
+        "output": "23\n"
+      },
+      {
+        "input": "3\n7 18 3\n",
+        "output": "28\n"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Hard Problem 166 - Two-pointers Task",
+    "description": "This is a synthetic hard-level problem (ID 166). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "two-pointers"
+    ],
+    "testcases": [
+      {
+        "input": "9\n8 3 4 4 16 8 14 4 5\n",
+        "output": "66\n"
+      },
+      {
+        "input": "8\n13 11 5 17 20 12 9 12\n",
+        "output": "99\n"
+      },
+      {
+        "input": "6\n15 16 13 3 2 8\n",
+        "output": "57\n"
+      },
+      {
+        "input": "8\n7 4 2 20 8 5 20 11\n",
+        "output": "77\n"
+      },
+      {
+        "input": "6\n4 19 19 5 10 1\n",
+        "output": "58\n"
+      },
+      {
+        "input": "6\n17 5 6 19 6 11\n",
+        "output": "64\n"
+      },
+      {
+        "input": "3\n13 1 13\n",
+        "output": "27\n"
+      },
+      {
+        "input": "9\n10 8 8 4 3 16 11 5 12\n",
+        "output": "77\n"
+      },
+      {
+        "input": "6\n17 2 14 16 1 12\n",
+        "output": "62\n"
+      },
+      {
+        "input": "6\n3 1 3 18 8 9\n",
+        "output": "42\n"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Hard Problem 167 - Two-pointers Task",
+    "description": "This is a synthetic hard-level problem (ID 167). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "two-pointers"
+    ],
+    "testcases": [
+      {
+        "input": "6\n17 12 5 1 19 5\n",
+        "output": "59\n"
+      },
+      {
+        "input": "5\n15 15 4 3 12\n",
+        "output": "49\n"
+      },
+      {
+        "input": "3\n1 10 1\n",
+        "output": "12\n"
+      },
+      {
+        "input": "7\n8 19 1 12 11 10 8\n",
+        "output": "69\n"
+      },
+      {
+        "input": "9\n17 17 7 9 6 5 4 9 15\n",
+        "output": "89\n"
+      },
+      {
+        "input": "5\n15 15 7 8 15\n",
+        "output": "60\n"
+      },
+      {
+        "input": "7\n19 2 6 8 6 2 18\n",
+        "output": "61\n"
+      },
+      {
+        "input": "6\n8 17 10 5 15 10\n",
+        "output": "65\n"
+      },
+      {
+        "input": "8\n18 14 1 1 10 13 15 7\n",
+        "output": "79\n"
+      },
+      {
+        "input": "7\n12 19 9 19 6 9 1\n",
+        "output": "75\n"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Hard Problem 168 - Hashing Task",
+    "description": "This is a synthetic hard-level problem (ID 168). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "10\n7 4 4 19 4 17 18 5 6 6\n",
+        "output": "90\n"
+      },
+      {
+        "input": "3\n6 3 12\n",
+        "output": "21\n"
+      },
+      {
+        "input": "6\n8 9 15 7 16 4\n",
+        "output": "59\n"
+      },
+      {
+        "input": "5\n1 16 11 18 2\n",
+        "output": "48\n"
+      },
+      {
+        "input": "7\n18 8 6 12 20 19 17\n",
+        "output": "100\n"
+      },
+      {
+        "input": "10\n11 6 5 10 7 9 9 13 15 3\n",
+        "output": "88\n"
+      },
+      {
+        "input": "10\n20 15 4 19 19 3 7 19 17 18\n",
+        "output": "141\n"
+      },
+      {
+        "input": "7\n17 19 5 4 16 17 9\n",
+        "output": "87\n"
+      },
+      {
+        "input": "10\n3 8 19 1 10 8 17 6 3 1\n",
+        "output": "76\n"
+      },
+      {
+        "input": "9\n10 12 1 3 1 17 19 9 14\n",
+        "output": "86\n"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Hard Problem 169 - Brute-force Task",
+    "description": "This is a synthetic hard-level problem (ID 169). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "brute-force"
+    ],
+    "testcases": [
+      {
+        "input": "7\n16 11 18 3 11 9 8\n",
+        "output": "76\n"
+      },
+      {
+        "input": "7\n14 3 15 1 19 5 7\n",
+        "output": "64\n"
+      },
+      {
+        "input": "9\n20 2 16 12 19 1 13 14 13\n",
+        "output": "110\n"
+      },
+      {
+        "input": "7\n11 5 1 1 20 9 2\n",
+        "output": "49\n"
+      },
+      {
+        "input": "10\n15 10 11 12 16 17 3 16 15 9\n",
+        "output": "124\n"
+      },
+      {
+        "input": "8\n8 11 7 10 2 14 20 19\n",
+        "output": "91\n"
+      },
+      {
+        "input": "5\n11 18 19 19 3\n",
+        "output": "70\n"
+      },
+      {
+        "input": "3\n16 10 1\n",
+        "output": "27\n"
+      },
+      {
+        "input": "7\n11 12 9 17 4 16 17\n",
+        "output": "86\n"
+      },
+      {
+        "input": "6\n20 18 10 20 6 19\n",
+        "output": "93\n"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Hard Problem 170 - Dp Task",
+    "description": "This is a synthetic hard-level problem (ID 170). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "5\n8 9 7 14 17\n",
+        "output": "55\n"
+      },
+      {
+        "input": "6\n20 3 7 11 11 7\n",
+        "output": "59\n"
+      },
+      {
+        "input": "7\n13 19 4 14 8 11 15\n",
+        "output": "84\n"
+      },
+      {
+        "input": "6\n9 1 7 17 6 11\n",
+        "output": "51\n"
+      },
+      {
+        "input": "3\n16 5 19\n",
+        "output": "40\n"
+      },
+      {
+        "input": "9\n20 8 20 5 7 9 7 15 11\n",
+        "output": "102\n"
+      },
+      {
+        "input": "5\n19 18 12 15 15\n",
+        "output": "79\n"
+      },
+      {
+        "input": "10\n2 19 9 8 14 4 19 9 18 7\n",
+        "output": "109\n"
+      },
+      {
+        "input": "10\n10 14 14 2 18 10 2 3 9 12\n",
+        "output": "94\n"
+      },
+      {
+        "input": "5\n1 17 12 18 14\n",
+        "output": "62\n"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Hard Problem 171 - Bitwise Task",
+    "description": "This is a synthetic hard-level problem (ID 171). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "bitwise"
+    ],
+    "testcases": [
+      {
+        "input": "4\n5 11 1 1\n",
+        "output": "18\n"
+      },
+      {
+        "input": "5\n1 8 17 12 20\n",
+        "output": "58\n"
+      },
+      {
+        "input": "10\n4 20 11 1 9 6 4 10 7 13\n",
+        "output": "85\n"
+      },
+      {
+        "input": "6\n13 20 11 6 5 5\n",
+        "output": "60\n"
+      },
+      {
+        "input": "6\n2 15 11 16 12 16\n",
+        "output": "72\n"
+      },
+      {
+        "input": "9\n1 7 16 4 9 10 20 6 9\n",
+        "output": "82\n"
+      },
+      {
+        "input": "8\n20 11 13 13 16 9 20 3\n",
+        "output": "105\n"
+      },
+      {
+        "input": "10\n6 2 20 15 12 15 15 5 3 12\n",
+        "output": "105\n"
+      },
+      {
+        "input": "9\n4 16 11 11 6 5 18 12 10\n",
+        "output": "93\n"
+      },
+      {
+        "input": "4\n3 2 5 8\n",
+        "output": "18\n"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Hard Problem 172 - Trees Task",
+    "description": "This is a synthetic hard-level problem (ID 172). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "8\n18 16 3 7 11 19 7 3\n",
+        "output": "84\n"
+      },
+      {
+        "input": "4\n19 5 2 1\n",
+        "output": "27\n"
+      },
+      {
+        "input": "3\n6 1 11\n",
+        "output": "18\n"
+      },
+      {
+        "input": "9\n18 7 13 10 19 19 4 2 19\n",
+        "output": "111\n"
+      },
+      {
+        "input": "9\n16 11 3 3 15 11 7 11 8\n",
+        "output": "85\n"
+      },
+      {
+        "input": "6\n16 2 6 12 11 7\n",
+        "output": "54\n"
+      },
+      {
+        "input": "7\n11 1 2 3 15 3 18\n",
+        "output": "53\n"
+      },
+      {
+        "input": "7\n4 15 2 13 7 3 20\n",
+        "output": "64\n"
+      },
+      {
+        "input": "4\n8 17 14 17\n",
+        "output": "56\n"
+      },
+      {
+        "input": "10\n16 18 4 4 18 8 17 4 13 10\n",
+        "output": "112\n"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Hard Problem 173 - Arrays Task",
+    "description": "This is a synthetic hard-level problem (ID 173). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "arrays"
+    ],
+    "testcases": [
+      {
+        "input": "9\n14 19 12 18 8 6 20 17 13\n",
+        "output": "127\n"
+      },
+      {
+        "input": "4\n15 18 16 2\n",
+        "output": "51\n"
+      },
+      {
+        "input": "6\n8 10 3 3 10 15\n",
+        "output": "49\n"
+      },
+      {
+        "input": "8\n4 17 2 13 11 2 19 18\n",
+        "output": "86\n"
+      },
+      {
+        "input": "9\n20 6 20 18 13 10 6 19 19\n",
+        "output": "131\n"
+      },
+      {
+        "input": "4\n6 8 14 14\n",
+        "output": "42\n"
+      },
+      {
+        "input": "3\n8 12 18\n",
+        "output": "38\n"
+      },
+      {
+        "input": "8\n14 18 19 18 15 3 6 10\n",
+        "output": "103\n"
+      },
+      {
+        "input": "3\n19 6 13\n",
+        "output": "38\n"
+      },
+      {
+        "input": "3\n20 3 11\n",
+        "output": "34\n"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Hard Problem 174 - Greedy Task",
+    "description": "This is a synthetic hard-level problem (ID 174). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "8\n15 9 16 1 9 3 9 12\n",
+        "output": "74\n"
+      },
+      {
+        "input": "10\n20 1 4 8 3 5 18 9 10 5\n",
+        "output": "83\n"
+      },
+      {
+        "input": "10\n2 13 13 14 16 15 5 13 2 17\n",
+        "output": "110\n"
+      },
+      {
+        "input": "5\n2 5 3 5 6\n",
+        "output": "21\n"
+      },
+      {
+        "input": "9\n5 10 4 20 19 20 3 10 9\n",
+        "output": "100\n"
+      },
+      {
+        "input": "6\n2 11 10 6 9 11\n",
+        "output": "49\n"
+      },
+      {
+        "input": "4\n6 4 3 20\n",
+        "output": "33\n"
+      },
+      {
+        "input": "9\n20 6 12 19 9 14 16 15 13\n",
+        "output": "124\n"
+      },
+      {
+        "input": "3\n16 12 13\n",
+        "output": "41\n"
+      },
+      {
+        "input": "3\n2 6 7\n",
+        "output": "15\n"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "title": "Hard Problem 175 - Brute-force Task",
+    "description": "This is a synthetic hard-level problem (ID 175). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "brute-force"
+    ],
+    "testcases": [
+      {
+        "input": "5\n14 19 3 6 10\n",
+        "output": "52\n"
+      },
+      {
+        "input": "7\n15 20 4 15 20 11 19\n",
+        "output": "104\n"
+      },
+      {
+        "input": "9\n15 9 4 1 1 8 2 18 5\n",
+        "output": "63\n"
+      },
+      {
+        "input": "4\n7 19 9 16\n",
+        "output": "51\n"
+      },
+      {
+        "input": "7\n13 7 7 8 14 1 15\n",
+        "output": "65\n"
+      },
+      {
+        "input": "10\n12 12 13 5 15 17 13 13 10 5\n",
+        "output": "115\n"
+      },
+      {
+        "input": "9\n5 11 15 11 13 19 1 10 2\n",
+        "output": "87\n"
+      },
+      {
+        "input": "5\n5 20 13 13 20\n",
+        "output": "71\n"
+      },
+      {
+        "input": "5\n19 3 19 1 4\n",
+        "output": "46\n"
+      },
+      {
+        "input": "9\n1 13 3 5 19 19 13 13 1\n",
+        "output": "87\n"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "title": "Hard Problem 176 - Hashing Task",
+    "description": "This is a synthetic hard-level problem (ID 176). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "6\n1 17 17 3 3 3\n",
+        "output": "44\n"
+      },
+      {
+        "input": "5\n20 17 3 12 15\n",
+        "output": "67\n"
+      },
+      {
+        "input": "8\n17 2 6 20 17 3 13 5\n",
+        "output": "83\n"
+      },
+      {
+        "input": "8\n11 13 4 9 4 9 1 10\n",
+        "output": "61\n"
+      },
+      {
+        "input": "10\n7 4 15 10 17 13 17 9 15 11\n",
+        "output": "118\n"
+      },
+      {
+        "input": "8\n1 12 11 8 1 9 3 12\n",
+        "output": "57\n"
+      },
+      {
+        "input": "8\n15 3 18 17 8 3 5 15\n",
+        "output": "84\n"
+      },
+      {
+        "input": "3\n19 9 17\n",
+        "output": "45\n"
+      },
+      {
+        "input": "5\n8 7 11 12 11\n",
+        "output": "49\n"
+      },
+      {
+        "input": "3\n18 20 11\n",
+        "output": "49\n"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "title": "Hard Problem 177 - Two-pointers Task",
+    "description": "This is a synthetic hard-level problem (ID 177). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "two-pointers"
+    ],
+    "testcases": [
+      {
+        "input": "9\n3 2 10 8 17 8 2 9 18\n",
+        "output": "77\n"
+      },
+      {
+        "input": "10\n3 4 4 10 15 15 4 2 18 16\n",
+        "output": "91\n"
+      },
+      {
+        "input": "4\n11 1 20 9\n",
+        "output": "41\n"
+      },
+      {
+        "input": "10\n7 2 19 4 9 5 10 10 13 18\n",
+        "output": "97\n"
+      },
+      {
+        "input": "4\n1 14 4 9\n",
+        "output": "28\n"
+      },
+      {
+        "input": "7\n5 20 7 19 14 12 7\n",
+        "output": "84\n"
+      },
+      {
+        "input": "8\n1 4 16 17 10 1 18 5\n",
+        "output": "72\n"
+      },
+      {
+        "input": "4\n6 12 10 9\n",
+        "output": "37\n"
+      },
+      {
+        "input": "9\n7 16 11 4 20 20 9 7 19\n",
+        "output": "113\n"
+      },
+      {
+        "input": "4\n3 4 12 20\n",
+        "output": "39\n"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "title": "Hard Problem 178 - Sorting Task",
+    "description": "This is a synthetic hard-level problem (ID 178). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "9\n17 9 9 11 13 15 8 9 1\n",
+        "output": "92\n"
+      },
+      {
+        "input": "3\n8 18 18\n",
+        "output": "44\n"
+      },
+      {
+        "input": "10\n15 11 17 5 1 4 10 5 20 18\n",
+        "output": "106\n"
+      },
+      {
+        "input": "7\n20 19 14 4 13 16 13\n",
+        "output": "99\n"
+      },
+      {
+        "input": "10\n9 12 14 5 16 15 10 20 10 19\n",
+        "output": "130\n"
+      },
+      {
+        "input": "5\n7 14 17 17 1\n",
+        "output": "56\n"
+      },
+      {
+        "input": "3\n16 11 19\n",
+        "output": "46\n"
+      },
+      {
+        "input": "4\n12 19 4 17\n",
+        "output": "52\n"
+      },
+      {
+        "input": "8\n13 19 1 7 2 1 12 10\n",
+        "output": "65\n"
+      },
+      {
+        "input": "7\n15 6 7 15 6 5 1\n",
+        "output": "55\n"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Hard Problem 179 - Two-pointers Task",
+    "description": "This is a synthetic hard-level problem (ID 179). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "two-pointers"
+    ],
+    "testcases": [
+      {
+        "input": "3\n8 3 7\n",
+        "output": "18\n"
+      },
+      {
+        "input": "5\n20 7 19 9 7\n",
+        "output": "62\n"
+      },
+      {
+        "input": "3\n1 12 4\n",
+        "output": "17\n"
+      },
+      {
+        "input": "10\n20 12 3 8 18 18 17 20 10 9\n",
+        "output": "135\n"
+      },
+      {
+        "input": "10\n19 16 19 3 11 14 19 9 17 19\n",
+        "output": "146\n"
+      },
+      {
+        "input": "3\n14 9 2\n",
+        "output": "25\n"
+      },
+      {
+        "input": "7\n3 5 4 8 1 9 16\n",
+        "output": "46\n"
+      },
+      {
+        "input": "10\n2 15 1 15 9 17 5 3 11 15\n",
+        "output": "93\n"
+      },
+      {
+        "input": "8\n8 15 2 5 15 8 15 9\n",
+        "output": "77\n"
+      },
+      {
+        "input": "8\n12 20 18 15 16 13 10 5\n",
+        "output": "109\n"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Hard Problem 180 - Greedy Task",
+    "description": "This is a synthetic hard-level problem (ID 180). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "9\n15 19 12 3 9 5 5 2 20\n",
+        "output": "90\n"
+      },
+      {
+        "input": "4\n9 1 11 17\n",
+        "output": "38\n"
+      },
+      {
+        "input": "7\n16 16 19 2 7 1 11\n",
+        "output": "72\n"
+      },
+      {
+        "input": "5\n18 11 20 6 6\n",
+        "output": "61\n"
+      },
+      {
+        "input": "6\n14 15 1 11 1 20\n",
+        "output": "62\n"
+      },
+      {
+        "input": "8\n13 8 15 11 1 15 14 10\n",
+        "output": "87\n"
+      },
+      {
+        "input": "3\n9 16 10\n",
+        "output": "35\n"
+      },
+      {
+        "input": "8\n16 1 4 19 3 9 4 9\n",
+        "output": "65\n"
+      },
+      {
+        "input": "9\n8 8 4 12 20 19 1 19 7\n",
+        "output": "98\n"
+      },
+      {
+        "input": "3\n4 1 19\n",
+        "output": "24\n"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "title": "Hard Problem 181 - Geometry Task",
+    "description": "This is a synthetic hard-level problem (ID 181). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "9\n1 5 13 19 8 16 2 4 14\n",
+        "output": "82\n"
+      },
+      {
+        "input": "10\n16 15 18 6 19 2 2 10 10 17\n",
+        "output": "115\n"
+      },
+      {
+        "input": "9\n13 9 5 16 12 4 12 9 4\n",
+        "output": "84\n"
+      },
+      {
+        "input": "7\n8 19 8 19 19 6 10\n",
+        "output": "89\n"
+      },
+      {
+        "input": "7\n19 15 2 7 20 7 10\n",
+        "output": "80\n"
+      },
+      {
+        "input": "8\n7 18 20 2 14 3 6 17\n",
+        "output": "87\n"
+      },
+      {
+        "input": "6\n17 13 20 7 19 14\n",
+        "output": "90\n"
+      },
+      {
+        "input": "4\n6 3 12 17\n",
+        "output": "38\n"
+      },
+      {
+        "input": "10\n11 17 16 12 15 13 4 19 7 13\n",
+        "output": "127\n"
+      },
+      {
+        "input": "4\n6 5 10 11\n",
+        "output": "32\n"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "title": "Hard Problem 182 - Recursion Task",
+    "description": "This is a synthetic hard-level problem (ID 182). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "recursion"
+    ],
+    "testcases": [
+      {
+        "input": "3\n17 5 9\n",
+        "output": "31\n"
+      },
+      {
+        "input": "3\n5 11 2\n",
+        "output": "18\n"
+      },
+      {
+        "input": "4\n17 6 17 17\n",
+        "output": "57\n"
+      },
+      {
+        "input": "7\n2 7 13 16 10 12 1\n",
+        "output": "61\n"
+      },
+      {
+        "input": "6\n3 7 10 12 1 4\n",
+        "output": "37\n"
+      },
+      {
+        "input": "5\n2 8 10 8 1\n",
+        "output": "29\n"
+      },
+      {
+        "input": "9\n15 8 8 12 18 9 19 3 18\n",
+        "output": "110\n"
+      },
+      {
+        "input": "9\n11 3 17 12 9 1 3 12 14\n",
+        "output": "82\n"
+      },
+      {
+        "input": "7\n14 9 20 12 8 6 2\n",
+        "output": "71\n"
+      },
+      {
+        "input": "7\n2 19 1 6 1 5 16\n",
+        "output": "50\n"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "title": "Hard Problem 183 - Math Task",
+    "description": "This is a synthetic hard-level problem (ID 183). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "7\n6 3 8 9 8 5 16\n",
+        "output": "55\n"
+      },
+      {
+        "input": "4\n3 11 8 14\n",
+        "output": "36\n"
+      },
+      {
+        "input": "4\n18 17 8 14\n",
+        "output": "57\n"
+      },
+      {
+        "input": "9\n8 12 5 6 14 16 11 17 20\n",
+        "output": "109\n"
+      },
+      {
+        "input": "9\n12 7 9 2 19 19 18 17 13\n",
+        "output": "116\n"
+      },
+      {
+        "input": "4\n4 19 11 19\n",
+        "output": "53\n"
+      },
+      {
+        "input": "3\n6 6 5\n",
+        "output": "17\n"
+      },
+      {
+        "input": "8\n9 3 13 6 10 12 1 5\n",
+        "output": "59\n"
+      },
+      {
+        "input": "6\n17 15 17 2 15 13\n",
+        "output": "79\n"
+      },
+      {
+        "input": "4\n9 18 19 10\n",
+        "output": "56\n"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "title": "Hard Problem 184 - Trees Task",
+    "description": "This is a synthetic hard-level problem (ID 184). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "4\n20 19 3 9\n",
+        "output": "51\n"
+      },
+      {
+        "input": "7\n6 18 4 8 1 6 11\n",
+        "output": "54\n"
+      },
+      {
+        "input": "9\n4 10 12 15 2 14 9 19 13\n",
+        "output": "98\n"
+      },
+      {
+        "input": "6\n8 18 18 9 13 13\n",
+        "output": "79\n"
+      },
+      {
+        "input": "10\n16 10 8 8 14 18 18 8 10 5\n",
+        "output": "115\n"
+      },
+      {
+        "input": "8\n3 19 14 16 10 2 10 14\n",
+        "output": "88\n"
+      },
+      {
+        "input": "7\n13 19 4 16 2 2 19\n",
+        "output": "75\n"
+      },
+      {
+        "input": "9\n11 4 12 8 9 4 14 6 12\n",
+        "output": "80\n"
+      },
+      {
+        "input": "10\n14 14 20 17 4 20 16 16 18 4\n",
+        "output": "143\n"
+      },
+      {
+        "input": "5\n16 15 14 16 2\n",
+        "output": "63\n"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "title": "Hard Problem 185 - Sorting Task",
+    "description": "This is a synthetic hard-level problem (ID 185). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "8\n11 8 18 12 8 18 15 10\n",
+        "output": "100\n"
+      },
+      {
+        "input": "7\n5 18 16 17 8 8 10\n",
+        "output": "82\n"
+      },
+      {
+        "input": "5\n20 11 7 8 6\n",
+        "output": "52\n"
+      },
+      {
+        "input": "8\n1 15 17 3 7 14 15 6\n",
+        "output": "78\n"
+      },
+      {
+        "input": "10\n8 9 9 14 6 2 13 14 15 17\n",
+        "output": "107\n"
+      },
+      {
+        "input": "8\n1 20 7 7 4 4 4 15\n",
+        "output": "62\n"
+      },
+      {
+        "input": "7\n4 5 9 16 11 12 17\n",
+        "output": "74\n"
+      },
+      {
+        "input": "7\n16 15 17 10 14 1 18\n",
+        "output": "91\n"
+      },
+      {
+        "input": "10\n6 19 7 1 18 5 1 14 1 18\n",
+        "output": "90\n"
+      },
+      {
+        "input": "6\n13 3 6 3 11 8\n",
+        "output": "44\n"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "title": "Hard Problem 186 - Dp Task",
+    "description": "This is a synthetic hard-level problem (ID 186). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "dp"
+    ],
+    "testcases": [
+      {
+        "input": "9\n1 18 12 16 15 7 14 2 17\n",
+        "output": "102\n"
+      },
+      {
+        "input": "7\n10 1 11 19 2 17 16\n",
+        "output": "76\n"
+      },
+      {
+        "input": "4\n17 18 4 19\n",
+        "output": "58\n"
+      },
+      {
+        "input": "6\n5 9 5 18 4 15\n",
+        "output": "56\n"
+      },
+      {
+        "input": "7\n15 10 3 13 10 7 14\n",
+        "output": "72\n"
+      },
+      {
+        "input": "8\n20 18 19 13 3 20 8 18\n",
+        "output": "119\n"
+      },
+      {
+        "input": "8\n10 19 18 4 15 2 1 7\n",
+        "output": "76\n"
+      },
+      {
+        "input": "8\n17 4 1 6 2 5 20 17\n",
+        "output": "72\n"
+      },
+      {
+        "input": "4\n20 18 12 19\n",
+        "output": "69\n"
+      },
+      {
+        "input": "4\n11 8 9 16\n",
+        "output": "44\n"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "title": "Hard Problem 187 - Graphs Task",
+    "description": "This is a synthetic hard-level problem (ID 187). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "graphs"
+    ],
+    "testcases": [
+      {
+        "input": "4\n20 7 3 20\n",
+        "output": "50\n"
+      },
+      {
+        "input": "10\n1 11 20 16 19 4 11 12 18 2\n",
+        "output": "114\n"
+      },
+      {
+        "input": "3\n4 12 7\n",
+        "output": "23\n"
+      },
+      {
+        "input": "7\n3 17 10 14 4 5 1\n",
+        "output": "54\n"
+      },
+      {
+        "input": "3\n1 11 8\n",
+        "output": "20\n"
+      },
+      {
+        "input": "5\n15 3 1 20 4\n",
+        "output": "43\n"
+      },
+      {
+        "input": "6\n2 2 15 18 6 14\n",
+        "output": "57\n"
+      },
+      {
+        "input": "7\n11 14 3 11 13 11 13\n",
+        "output": "76\n"
+      },
+      {
+        "input": "4\n4 12 6 19\n",
+        "output": "41\n"
+      },
+      {
+        "input": "8\n13 16 7 16 13 20 13 11\n",
+        "output": "109\n"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Hard Problem 188 - Geometry Task",
+    "description": "This is a synthetic hard-level problem (ID 188). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "4\n3 7 18 19\n",
+        "output": "47\n"
+      },
+      {
+        "input": "6\n16 19 20 19 11 12\n",
+        "output": "97\n"
+      },
+      {
+        "input": "5\n8 12 1 2 2\n",
+        "output": "25\n"
+      },
+      {
+        "input": "10\n17 4 1 3 20 9 17 8 4 4\n",
+        "output": "87\n"
+      },
+      {
+        "input": "9\n3 14 6 5 13 6 19 5 13\n",
+        "output": "84\n"
+      },
+      {
+        "input": "9\n10 13 6 11 13 12 18 9 6\n",
+        "output": "98\n"
+      },
+      {
+        "input": "8\n19 7 17 18 16 12 18 18\n",
+        "output": "125\n"
+      },
+      {
+        "input": "6\n5 19 1 14 20 18\n",
+        "output": "77\n"
+      },
+      {
+        "input": "6\n2 3 7 12 14 15\n",
+        "output": "53\n"
+      },
+      {
+        "input": "10\n11 5 20 19 7 7 3 7 19 5\n",
+        "output": "103\n"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "title": "Hard Problem 189 - Sorting Task",
+    "description": "This is a synthetic hard-level problem (ID 189). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "3\n10 18 12\n",
+        "output": "40\n"
+      },
+      {
+        "input": "10\n16 10 8 11 4 3 16 19 7 3\n",
+        "output": "97\n"
+      },
+      {
+        "input": "9\n8 19 4 12 15 2 20 8 1\n",
+        "output": "89\n"
+      },
+      {
+        "input": "10\n8 20 17 2 1 10 20 11 9 14\n",
+        "output": "112\n"
+      },
+      {
+        "input": "3\n8 14 17\n",
+        "output": "39\n"
+      },
+      {
+        "input": "9\n5 2 11 1 8 1 13 16 7\n",
+        "output": "64\n"
+      },
+      {
+        "input": "5\n11 16 8 2 3\n",
+        "output": "40\n"
+      },
+      {
+        "input": "6\n5 11 3 7 11 10\n",
+        "output": "47\n"
+      },
+      {
+        "input": "10\n11 15 1 15 1 9 19 4 10 4\n",
+        "output": "89\n"
+      },
+      {
+        "input": "10\n5 9 9 14 17 5 17 14 15 3\n",
+        "output": "108\n"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "title": "Hard Problem 190 - Search Task",
+    "description": "This is a synthetic hard-level problem (ID 190). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "search"
+    ],
+    "testcases": [
+      {
+        "input": "4\n2 10 16 20\n",
+        "output": "48\n"
+      },
+      {
+        "input": "9\n2 6 9 10 10 14 7 11 17\n",
+        "output": "86\n"
+      },
+      {
+        "input": "7\n3 7 4 16 2 19 10\n",
+        "output": "61\n"
+      },
+      {
+        "input": "10\n14 8 17 10 16 15 11 16 10 18\n",
+        "output": "135\n"
+      },
+      {
+        "input": "8\n1 7 20 3 7 19 10 8\n",
+        "output": "75\n"
+      },
+      {
+        "input": "8\n6 8 2 14 10 15 16 9\n",
+        "output": "80\n"
+      },
+      {
+        "input": "10\n15 13 15 9 7 9 19 8 11 1\n",
+        "output": "107\n"
+      },
+      {
+        "input": "7\n10 19 6 2 20 20 8\n",
+        "output": "85\n"
+      },
+      {
+        "input": "10\n7 12 6 3 16 10 7 6 9 15\n",
+        "output": "91\n"
+      },
+      {
+        "input": "8\n14 16 6 18 4 4 19 17\n",
+        "output": "98\n"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "title": "Hard Problem 191 - Greedy Task",
+    "description": "This is a synthetic hard-level problem (ID 191). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "6\n4 17 7 7 1 8\n",
+        "output": "44\n"
+      },
+      {
+        "input": "9\n9 6 8 11 18 20 13 13 12\n",
+        "output": "110\n"
+      },
+      {
+        "input": "7\n16 15 20 20 17 18 6\n",
+        "output": "112\n"
+      },
+      {
+        "input": "9\n19 2 15 14 2 19 12 12 12\n",
+        "output": "107\n"
+      },
+      {
+        "input": "6\n13 19 8 2 1 7\n",
+        "output": "50\n"
+      },
+      {
+        "input": "3\n20 4 13\n",
+        "output": "37\n"
+      },
+      {
+        "input": "6\n6 15 15 2 3 1\n",
+        "output": "42\n"
+      },
+      {
+        "input": "4\n11 2 2 18\n",
+        "output": "33\n"
+      },
+      {
+        "input": "7\n10 15 3 19 5 9 13\n",
+        "output": "74\n"
+      },
+      {
+        "input": "5\n15 2 11 15 18\n",
+        "output": "61\n"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "title": "Hard Problem 192 - Hashing Task",
+    "description": "This is a synthetic hard-level problem (ID 192). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "3\n15 17 20\n",
+        "output": "52\n"
+      },
+      {
+        "input": "7\n8 7 19 10 7 15 19\n",
+        "output": "85\n"
+      },
+      {
+        "input": "3\n3 9 17\n",
+        "output": "29\n"
+      },
+      {
+        "input": "6\n1 15 15 11 4 16\n",
+        "output": "62\n"
+      },
+      {
+        "input": "3\n9 20 16\n",
+        "output": "45\n"
+      },
+      {
+        "input": "5\n11 19 19 17 17\n",
+        "output": "83\n"
+      },
+      {
+        "input": "6\n12 6 14 5 14 12\n",
+        "output": "63\n"
+      },
+      {
+        "input": "4\n6 14 14 9\n",
+        "output": "43\n"
+      },
+      {
+        "input": "4\n10 5 13 2\n",
+        "output": "30\n"
+      },
+      {
+        "input": "7\n1 6 13 15 15 12 8\n",
+        "output": "70\n"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "title": "Hard Problem 193 - Sorting Task",
+    "description": "This is a synthetic hard-level problem (ID 193). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "sorting"
+    ],
+    "testcases": [
+      {
+        "input": "3\n2 18 10\n",
+        "output": "30\n"
+      },
+      {
+        "input": "7\n14 4 9 7 5 3 9\n",
+        "output": "51\n"
+      },
+      {
+        "input": "8\n16 12 6 8 12 9 6 9\n",
+        "output": "78\n"
+      },
+      {
+        "input": "4\n11 18 17 8\n",
+        "output": "54\n"
+      },
+      {
+        "input": "4\n18 17 10 11\n",
+        "output": "56\n"
+      },
+      {
+        "input": "8\n15 11 18 14 4 13 17 16\n",
+        "output": "108\n"
+      },
+      {
+        "input": "3\n1 20 15\n",
+        "output": "36\n"
+      },
+      {
+        "input": "7\n17 16 17 20 13 6 14\n",
+        "output": "103\n"
+      },
+      {
+        "input": "4\n20 19 7 7\n",
+        "output": "53\n"
+      },
+      {
+        "input": "7\n4 10 14 1 9 14 10\n",
+        "output": "62\n"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "title": "Hard Problem 194 - Geometry Task",
+    "description": "This is a synthetic hard-level problem (ID 194). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "10\n19 11 20 7 10 15 8 5 10 19\n",
+        "output": "124\n"
+      },
+      {
+        "input": "6\n10 2 7 8 9 3\n",
+        "output": "39\n"
+      },
+      {
+        "input": "3\n20 16 16\n",
+        "output": "52\n"
+      },
+      {
+        "input": "7\n7 11 2 5 15 20 10\n",
+        "output": "70\n"
+      },
+      {
+        "input": "9\n10 9 20 4 9 8 20 11 6\n",
+        "output": "97\n"
+      },
+      {
+        "input": "10\n12 4 13 1 11 15 19 17 1 10\n",
+        "output": "103\n"
+      },
+      {
+        "input": "7\n12 12 9 10 4 19 4\n",
+        "output": "70\n"
+      },
+      {
+        "input": "6\n20 14 1 13 2 1\n",
+        "output": "51\n"
+      },
+      {
+        "input": "9\n6 7 13 10 6 17 11 13 7\n",
+        "output": "90\n"
+      },
+      {
+        "input": "4\n8 12 13 15\n",
+        "output": "48\n"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "title": "Hard Problem 195 - Hashing Task",
+    "description": "This is a synthetic hard-level problem (ID 195). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "hashing"
+    ],
+    "testcases": [
+      {
+        "input": "6\n18 17 5 16 2 16\n",
+        "output": "74\n"
+      },
+      {
+        "input": "9\n2 10 6 3 9 3 7 7 6\n",
+        "output": "53\n"
+      },
+      {
+        "input": "4\n2 16 12 3\n",
+        "output": "33\n"
+      },
+      {
+        "input": "9\n9 15 6 20 16 17 9 16 16\n",
+        "output": "124\n"
+      },
+      {
+        "input": "10\n15 9 17 15 13 19 3 5 20 17\n",
+        "output": "133\n"
+      },
+      {
+        "input": "6\n15 19 18 18 17 15\n",
+        "output": "102\n"
+      },
+      {
+        "input": "3\n2 4 3\n",
+        "output": "9\n"
+      },
+      {
+        "input": "3\n1 18 13\n",
+        "output": "32\n"
+      },
+      {
+        "input": "6\n13 14 19 8 19 6\n",
+        "output": "79\n"
+      },
+      {
+        "input": "4\n15 7 16 4\n",
+        "output": "42\n"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "title": "Hard Problem 196 - Math Task",
+    "description": "This is a synthetic hard-level problem (ID 196). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "4\n4 6 8 18\n",
+        "output": "36\n"
+      },
+      {
+        "input": "5\n15 14 20 7 16\n",
+        "output": "72\n"
+      },
+      {
+        "input": "3\n15 1 13\n",
+        "output": "29\n"
+      },
+      {
+        "input": "3\n15 11 11\n",
+        "output": "37\n"
+      },
+      {
+        "input": "3\n2 11 17\n",
+        "output": "30\n"
+      },
+      {
+        "input": "8\n20 4 10 10 4 6 1 17\n",
+        "output": "72\n"
+      },
+      {
+        "input": "9\n7 20 17 11 6 17 17 4 4\n",
+        "output": "103\n"
+      },
+      {
+        "input": "9\n15 1 20 14 11 7 9 7 6\n",
+        "output": "90\n"
+      },
+      {
+        "input": "7\n7 7 18 4 6 18 14\n",
+        "output": "74\n"
+      },
+      {
+        "input": "5\n5 20 13 18 18\n",
+        "output": "74\n"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "title": "Hard Problem 197 - Geometry Task",
+    "description": "This is a synthetic hard-level problem (ID 197). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "geometry"
+    ],
+    "testcases": [
+      {
+        "input": "10\n9 20 15 2 13 4 20 5 9 3\n",
+        "output": "100\n"
+      },
+      {
+        "input": "7\n13 15 1 9 8 17 2\n",
+        "output": "65\n"
+      },
+      {
+        "input": "4\n16 7 2 20\n",
+        "output": "45\n"
+      },
+      {
+        "input": "9\n4 20 4 19 16 18 18 15 9\n",
+        "output": "123\n"
+      },
+      {
+        "input": "7\n3 7 11 14 15 13 4\n",
+        "output": "67\n"
+      },
+      {
+        "input": "3\n10 12 1\n",
+        "output": "23\n"
+      },
+      {
+        "input": "8\n9 7 16 17 3 14 13 13\n",
+        "output": "92\n"
+      },
+      {
+        "input": "5\n2 15 15 5 20\n",
+        "output": "57\n"
+      },
+      {
+        "input": "4\n7 16 12 10\n",
+        "output": "45\n"
+      },
+      {
+        "input": "8\n4 12 13 13 10 3 14 3\n",
+        "output": "72\n"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "title": "Hard Problem 198 - Recursion Task",
+    "description": "This is a synthetic hard-level problem (ID 198). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "recursion"
+    ],
+    "testcases": [
+      {
+        "input": "10\n15 15 15 4 5 17 17 5 4 1\n",
+        "output": "98\n"
+      },
+      {
+        "input": "3\n1 5 15\n",
+        "output": "21\n"
+      },
+      {
+        "input": "3\n14 7 14\n",
+        "output": "35\n"
+      },
+      {
+        "input": "10\n8 10 10 20 18 12 17 20 20 4\n",
+        "output": "139\n"
+      },
+      {
+        "input": "4\n3 10 2 18\n",
+        "output": "33\n"
+      },
+      {
+        "input": "10\n16 18 17 13 1 14 7 16 18 3\n",
+        "output": "123\n"
+      },
+      {
+        "input": "9\n3 4 2 1 18 2 11 5 8\n",
+        "output": "54\n"
+      },
+      {
+        "input": "5\n17 3 16 12 11\n",
+        "output": "59\n"
+      },
+      {
+        "input": "4\n12 18 10 6\n",
+        "output": "46\n"
+      },
+      {
+        "input": "6\n2 8 18 5 1 12\n",
+        "output": "46\n"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "title": "Hard Problem 199 - Trees Task",
+    "description": "This is a synthetic hard-level problem (ID 199). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "trees"
+    ],
+    "testcases": [
+      {
+        "input": "3\n11 13 12\n",
+        "output": "36\n"
+      },
+      {
+        "input": "4\n6 12 20 6\n",
+        "output": "44\n"
+      },
+      {
+        "input": "7\n18 10 2 16 12 16 3\n",
+        "output": "77\n"
+      },
+      {
+        "input": "7\n12 17 20 5 8 13 13\n",
+        "output": "88\n"
+      },
+      {
+        "input": "8\n10 4 15 15 9 3 9 3\n",
+        "output": "68\n"
+      },
+      {
+        "input": "3\n17 5 5\n",
+        "output": "27\n"
+      },
+      {
+        "input": "8\n20 19 11 17 10 9 9 8\n",
+        "output": "103\n"
+      },
+      {
+        "input": "9\n11 16 7 4 4 7 18 2 10\n",
+        "output": "79\n"
+      },
+      {
+        "input": "10\n10 3 12 20 4 1 8 10 11 4\n",
+        "output": "83\n"
+      },
+      {
+        "input": "5\n8 13 13 19 6\n",
+        "output": "59\n"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "title": "Hard Problem 200 - Math Task",
+    "description": "This is a synthetic hard-level problem (ID 200). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "3\n5 5 20\n",
+        "output": "30\n"
+      },
+      {
+        "input": "3\n9 7 12\n",
+        "output": "28\n"
+      },
+      {
+        "input": "5\n2 16 20 16 17\n",
+        "output": "71\n"
+      },
+      {
+        "input": "3\n13 17 1\n",
+        "output": "31\n"
+      },
+      {
+        "input": "4\n15 20 8 6\n",
+        "output": "49\n"
+      },
+      {
+        "input": "5\n18 15 10 18 18\n",
+        "output": "79\n"
+      },
+      {
+        "input": "8\n18 14 18 9 20 8 1 16\n",
+        "output": "104\n"
+      },
+      {
+        "input": "10\n3 2 6 3 6 13 19 9 3 18\n",
+        "output": "82\n"
+      },
+      {
+        "input": "7\n6 1 6 4 10 1 15\n",
+        "output": "43\n"
+      },
+      {
+        "input": "7\n12 7 6 4 1 7 8\n",
+        "output": "45\n"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "title": "Hard Problem 201 - Bitwise Task",
+    "description": "This is a synthetic hard-level problem (ID 201). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "bitwise"
+    ],
+    "testcases": [
+      {
+        "input": "3\n12 20 16\n",
+        "output": "48\n"
+      },
+      {
+        "input": "3\n10 19 3\n",
+        "output": "32\n"
+      },
+      {
+        "input": "7\n12 3 1 14 9 20 12\n",
+        "output": "71\n"
+      },
+      {
+        "input": "6\n6 13 8 12 2 13\n",
+        "output": "54\n"
+      },
+      {
+        "input": "7\n3 14 9 19 12 5 2\n",
+        "output": "64\n"
+      },
+      {
+        "input": "4\n6 3 13 3\n",
+        "output": "25\n"
+      },
+      {
+        "input": "9\n16 8 12 2 10 1 14 3 20\n",
+        "output": "86\n"
+      },
+      {
+        "input": "6\n14 19 19 16 9 8\n",
+        "output": "85\n"
+      },
+      {
+        "input": "7\n13 18 1 18 14 2 1\n",
+        "output": "67\n"
+      },
+      {
+        "input": "9\n1 15 7 2 7 12 3 8 2\n",
+        "output": "57\n"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "title": "Hard Problem 202 - Math Task",
+    "description": "This is a synthetic hard-level problem (ID 202). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "math"
+    ],
+    "testcases": [
+      {
+        "input": "9\n10 18 17 6 7 15 17 10 4\n",
+        "output": "104\n"
+      },
+      {
+        "input": "3\n19 14 10\n",
+        "output": "43\n"
+      },
+      {
+        "input": "3\n3 8 3\n",
+        "output": "14\n"
+      },
+      {
+        "input": "10\n2 5 16 6 16 11 13 8 2 11\n",
+        "output": "90\n"
+      },
+      {
+        "input": "3\n10 1 5\n",
+        "output": "16\n"
+      },
+      {
+        "input": "6\n8 19 17 17 20 6\n",
+        "output": "87\n"
+      },
+      {
+        "input": "10\n11 5 3 2 14 16 20 8 11 11\n",
+        "output": "101\n"
+      },
+      {
+        "input": "8\n14 13 11 16 13 12 19 9\n",
+        "output": "107\n"
+      },
+      {
+        "input": "3\n5 17 4\n",
+        "output": "26\n"
+      },
+      {
+        "input": "5\n3 3 15 18 3\n",
+        "output": "42\n"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Hard Problem 203 - Greedy Task",
+    "description": "This is a synthetic hard-level problem (ID 203). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "9\n4 19 16 20 4 6 13 15 11\n",
+        "output": "108\n"
+      },
+      {
+        "input": "4\n11 3 9 12\n",
+        "output": "35\n"
+      },
+      {
+        "input": "3\n7 3 16\n",
+        "output": "26\n"
+      },
+      {
+        "input": "9\n14 1 6 15 20 11 13 18 10\n",
+        "output": "108\n"
+      },
+      {
+        "input": "4\n16 11 18 12\n",
+        "output": "57\n"
+      },
+      {
+        "input": "9\n13 5 10 1 9 19 8 18 3\n",
+        "output": "86\n"
+      },
+      {
+        "input": "7\n9 1 1 8 11 1 13\n",
+        "output": "44\n"
+      },
+      {
+        "input": "8\n1 17 14 9 13 14 20 2\n",
+        "output": "90\n"
+      },
+      {
+        "input": "7\n7 17 1 16 16 5 15\n",
+        "output": "77\n"
+      },
+      {
+        "input": "4\n10 6 2 8\n",
+        "output": "26\n"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "title": "Hard Problem 204 - Search Task",
+    "description": "This is a synthetic hard-level problem (ID 204). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "search"
+    ],
+    "testcases": [
+      {
+        "input": "10\n11 2 11 13 18 15 12 7 4 19\n",
+        "output": "112\n"
+      },
+      {
+        "input": "4\n9 13 3 15\n",
+        "output": "40\n"
+      },
+      {
+        "input": "10\n19 17 1 6 11 15 12 18 18 18\n",
+        "output": "135\n"
+      },
+      {
+        "input": "3\n18 4 6\n",
+        "output": "28\n"
+      },
+      {
+        "input": "4\n20 14 12 15\n",
+        "output": "61\n"
+      },
+      {
+        "input": "6\n14 12 5 10 18 4\n",
+        "output": "63\n"
+      },
+      {
+        "input": "9\n18 18 14 8 4 13 13 19 4\n",
+        "output": "111\n"
+      },
+      {
+        "input": "7\n9 2 8 10 13 5 20\n",
+        "output": "67\n"
+      },
+      {
+        "input": "7\n20 11 8 18 9 10 14\n",
+        "output": "90\n"
+      },
+      {
+        "input": "4\n18 14 16 12\n",
+        "output": "60\n"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "title": "Hard Problem 205 - Two-pointers Task",
+    "description": "This is a synthetic hard-level problem (ID 205). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "two-pointers"
+    ],
+    "testcases": [
+      {
+        "input": "10\n20 1 7 8 17 3 12 8 6 14\n",
+        "output": "96\n"
+      },
+      {
+        "input": "3\n16 13 4\n",
+        "output": "33\n"
+      },
+      {
+        "input": "4\n6 3 12 15\n",
+        "output": "36\n"
+      },
+      {
+        "input": "6\n16 2 16 17 2 17\n",
+        "output": "70\n"
+      },
+      {
+        "input": "9\n4 8 9 4 5 1 20 19 1\n",
+        "output": "71\n"
+      },
+      {
+        "input": "9\n2 7 13 13 3 4 5 11 16\n",
+        "output": "74\n"
+      },
+      {
+        "input": "5\n12 16 14 16 19\n",
+        "output": "77\n"
+      },
+      {
+        "input": "4\n19 2 15 12\n",
+        "output": "48\n"
+      },
+      {
+        "input": "9\n1 19 14 11 3 1 15 20 16\n",
+        "output": "100\n"
+      },
+      {
+        "input": "7\n6 19 15 17 9 6 15\n",
+        "output": "87\n"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "title": "Hard Problem 206 - Search Task",
+    "description": "This is a synthetic hard-level problem (ID 206). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "search"
+    ],
+    "testcases": [
+      {
+        "input": "10\n7 4 18 2 7 13 2 6 20 20\n",
+        "output": "99\n"
+      },
+      {
+        "input": "3\n11 18 12\n",
+        "output": "41\n"
+      },
+      {
+        "input": "7\n17 2 2 10 1 18 12\n",
+        "output": "62\n"
+      },
+      {
+        "input": "3\n5 9 6\n",
+        "output": "20\n"
+      },
+      {
+        "input": "9\n3 12 9 13 4 3 19 20 13\n",
+        "output": "96\n"
+      },
+      {
+        "input": "4\n12 7 6 19\n",
+        "output": "44\n"
+      },
+      {
+        "input": "3\n6 10 9\n",
+        "output": "25\n"
+      },
+      {
+        "input": "8\n11 18 14 4 9 18 3 20\n",
+        "output": "97\n"
+      },
+      {
+        "input": "10\n20 17 9 18 12 13 9 1 12 15\n",
+        "output": "126\n"
+      },
+      {
+        "input": "6\n16 14 14 18 4 3\n",
+        "output": "69\n"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "title": "Hard Problem 207 - Greedy Task",
+    "description": "This is a synthetic hard-level problem (ID 207). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "9\n1 19 19 19 16 12 5 14 16\n",
+        "output": "121\n"
+      },
+      {
+        "input": "9\n18 4 11 6 14 14 14 7 1\n",
+        "output": "89\n"
+      },
+      {
+        "input": "4\n1 12 15 5\n",
+        "output": "33\n"
+      },
+      {
+        "input": "5\n3 10 15 12 11\n",
+        "output": "51\n"
+      },
+      {
+        "input": "4\n17 9 19 2\n",
+        "output": "47\n"
+      },
+      {
+        "input": "4\n17 2 7 15\n",
+        "output": "41\n"
+      },
+      {
+        "input": "6\n19 16 9 11 5 13\n",
+        "output": "73\n"
+      },
+      {
+        "input": "8\n17 2 11 17 11 11 20 19\n",
+        "output": "108\n"
+      },
+      {
+        "input": "8\n11 9 10 16 5 5 17 16\n",
+        "output": "89\n"
+      },
+      {
+        "input": "8\n12 16 9 3 5 6 2 13\n",
+        "output": "66\n"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "title": "Hard Problem 208 - Greedy Task",
+    "description": "This is a synthetic hard-level problem (ID 208). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "4\n10 9 3 14\n",
+        "output": "36\n"
+      },
+      {
+        "input": "5\n16 2 1 9 4\n",
+        "output": "32\n"
+      },
+      {
+        "input": "8\n14 9 11 13 19 5 6 19\n",
+        "output": "96\n"
+      },
+      {
+        "input": "3\n11 10 4\n",
+        "output": "25\n"
+      },
+      {
+        "input": "10\n20 20 20 11 17 6 18 20 20 17\n",
+        "output": "169\n"
+      },
+      {
+        "input": "3\n18 1 8\n",
+        "output": "27\n"
+      },
+      {
+        "input": "7\n2 19 7 2 12 7 10\n",
+        "output": "59\n"
+      },
+      {
+        "input": "9\n17 18 8 13 20 17 17 9 8\n",
+        "output": "127\n"
+      },
+      {
+        "input": "10\n8 3 13 16 2 8 9 4 5 15\n",
+        "output": "83\n"
+      },
+      {
+        "input": "5\n3 15 7 17 4\n",
+        "output": "46\n"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "title": "Hard Problem 209 - Greedy Task",
+    "description": "This is a synthetic hard-level problem (ID 209). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "greedy"
+    ],
+    "testcases": [
+      {
+        "input": "6\n18 16 13 18 14 15\n",
+        "output": "94\n"
+      },
+      {
+        "input": "5\n10 5 17 14 11\n",
+        "output": "57\n"
+      },
+      {
+        "input": "4\n14 6 20 19\n",
+        "output": "59\n"
+      },
+      {
+        "input": "7\n6 6 8 5 6 4 2\n",
+        "output": "37\n"
+      },
+      {
+        "input": "9\n12 7 4 10 18 10 13 18 9\n",
+        "output": "101\n"
+      },
+      {
+        "input": "4\n19 13 15 19\n",
+        "output": "66\n"
+      },
+      {
+        "input": "5\n14 15 6 2 14\n",
+        "output": "51\n"
+      },
+      {
+        "input": "3\n18 14 19\n",
+        "output": "51\n"
+      },
+      {
+        "input": "7\n16 13 13 1 8 8 19\n",
+        "output": "78\n"
+      },
+      {
+        "input": "3\n4 10 8\n",
+        "output": "22\n"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "title": "Hard Problem 210 - Strings Task",
+    "description": "This is a synthetic hard-level problem (ID 210). You are given an integer n and an array of n integers. Your task is to compute the sum of the integers.",
+    "difficulty": "Hard",
+    "tags": [
+      "strings"
+    ],
+    "testcases": [
+      {
+        "input": "3\n9 3 12\n",
+        "output": "24\n"
+      },
+      {
+        "input": "4\n19 9 2 14\n",
+        "output": "44\n"
+      },
+      {
+        "input": "3\n1 9 4\n",
+        "output": "14\n"
+      },
+      {
+        "input": "5\n15 11 6 20 15\n",
+        "output": "67\n"
+      },
+      {
+        "input": "3\n20 16 4\n",
+        "output": "40\n"
+      },
+      {
+        "input": "3\n3 11 10\n",
+        "output": "24\n"
+      },
+      {
+        "input": "3\n5 19 11\n",
+        "output": "35\n"
+      },
+      {
+        "input": "7\n3 7 16 18 20 4 11\n",
+        "output": "79\n"
+      },
+      {
+        "input": "4\n17 14 20 11\n",
+        "output": "62\n"
+      },
+      {
+        "input": "8\n11 8 8 5 8 18 11 12\n",
+        "output": "81\n"
+      }
+    ]
+  }
+]
